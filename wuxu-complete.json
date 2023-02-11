@@ -22,7 +22,7 @@
       "versionDescription": "Latest version of spotify that works with Spotilife v1.8 (latest)",
       "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
       "localizedDescription": "Spotify++ is essentially the same as normal Spotify. Except it contains an injected tweak that activates premium features, the same features you would have if you purchased Spotify Premium. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/e0/43/3ee04389-da9f-a89c-67a1-222ca0566d64/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/434x0w.webp",
+      "iconURL": "https://cdn.jim-nielsen.com/ios/1024/spotify-music-2015-07-30.png",
       "tintColor": "#1ed760",
       "size": 50100000,
       "minOSVersion": "12.0",
@@ -59,18 +59,6 @@
           "type": "faceid",
           "usageDescription": "This lets you set access restrictions using Face ID."
         }
-      ],
-      "screenshotURLs": [
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/25/d5/ba25d51a-7b48-02bb-ae6d-754e3312cf1b/4e06a23e-334a-455b-9a4c-5125185208aa_iOS_-_6.5_-_THOL_-_S01_-_en-US.png/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/25/d5/ba25d51a-7b48-02bb-ae6d-754e3312cf1b/4e06a23e-334a-455b-9a4c-5125185208aa_iOS_-_6.5_-_THOL_-_S01_-_en-US.png/600x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/76/92/9376926c-4a5b-d22a-b383-6ee1b6374b6d/3e57ff63-90ac-4fe3-bca3-3d4017058864_iOS_-_6.5_-_THOL_-_S03_-_en-US.png/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/74/e3/ac74e3dd-312a-939d-3257-2500d94c8778/1eece19a-1b2b-4d13-bb8b-286f64047d69_iOS_-_6.5_-_THOL_-_S04_-_en-US.png/600x0w.webp",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/74/dc/45/74dc454c-fcc5-da0c-c302-b96f642f9c24/c1087be8-e1bd-4d55-9c19-c63360d733c2_iOS_-_6.5_-_THOL_-_S05_-_en-US.png/600x0w.webp",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/77/ae/d177ae9c-a81c-f7ca-ee42-00caf1c73056/e016fd14-c60e-405b-80ab-620f68f3260e_iOS_-_6.5_-_THOL_-_S06_-_en-US.png/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/ae/cc/baaecc81-4975-c6ed-72e2-6ee0f99e88f7/58c5d138-dcd8-4da1-8d9d-07a70171a20f_iOS_-_6.5_-_THOL_-_S07_-_en-US.png/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/05/80/84/0580849f-d2b8-6c62-15c0-894d65b29cf4/e041b5d9-0d1b-4d95-93e4-12100e8fc0d3_iOS_-_6.5_-_THOL_-_S08_-_en-US.png/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/57/99/0f/57990f0b-08f1-7675-0ac7-b25b1d788848/af5217ea-b3ef-4834-a230-8678d0e0ea47_iOS_-_6.5_-_THOL_-_S09_-_en-US.png/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/57/99/0f/57990f0b-08f1-7675-0ac7-b25b1d788848/af5217ea-b3ef-4834-a230-8678d0e0ea47_iOS_-_6.5_-_THOL_-_S09_-_en-US.png/600x0w.webp"
       ]
     },
     {
@@ -93,7 +81,7 @@
       "versionDescription": "Updated SoundCloud to v6.16.1\nDarkCloud at Latest (v1.4)",
       "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/SoundCloud.v6.16.1.+.DarkCloud.v1.4.ipa",
       "localizedDescription": "SoundCloud Injected with DarkCloud - A Tweak that disables Ads and enables the developer menu which includes a wide range of adjustmets the user can make to the app\n\nDarkCloud allows users to do the following:\n\n•Block audio and video ads\n•Enable developer menu\n•Hide Go+ tab\n\nNo options to enable. Just install and enjoy.",
-      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/65/c2/52/65c252fb-b74f-97d7-3765-05619b45d5f3/AppIcon-1x_U007emarketing-0-8-0-85-220.png/492x0w.webp",
+      "iconURL": "https://icons.iconarchive.com/icons/danleech/simple/512/soundcloud-icon.png",
       "tintColor": "#db5b14",
       "size": 73000000,
       "minOSVersion": "14.0",
@@ -118,16 +106,6 @@
           "type": "faceid",
           "usageDescription": "This lets you set access restrictions using Face ID."
         }
-      ],
-      "screenshotURLs": [
-        "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/40/d8/3a/40d83aea-6eb6-394a-b11f-b527e0629b44/d657f25e-89f1-46a4-b91f-2d3bc669075b_iPhoneX_1Aa.jpg/600x0w.webp",
-        "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/19/cf/36/19cf3684-503c-8114-d605-226be6d5be7e/06fefe57-49cb-4662-911b-2b37c1b93464_iPhoneX_2A.jpg/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2c/97/18/2c9718e1-2851-0061-01b8-ba87be05e08b/3a9249f2-a2bf-45ce-a0ed-0b16603b35dc_iPhoneX_3A.jpg/600x0w.webp",
-        "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2d/75/f3/2d75f34d-2b7b-df62-f85c-75ea8ffeb154/2d056f2e-9a32-4e5f-a97d-df5ad72096ef_iPhoneX_4A.jpg/600x0w.webp",
-        "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/39/27/bb/3927bb64-0642-0e22-8ccf-d734aed5128b/9817253e-6b4e-40f1-b86e-b92e8f63cee0_iPhoneX_5A.jpg/600x0w.webp",
-        "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6b/87/45/6b874503-25a0-0914-12f7-7314a5a8749d/4fd11d18-27ba-493e-8fe0-a825d48f6ae2_iPhoneX_6A.jpg/600x0w.webp",
-        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c9/69/74/c96974ef-42a2-3238-d18d-892de32396aa/053040d4-b73c-4ac5-a2f6-4b8549ea5708_iPhoneX_7A.jpg/600x0w.webp",
-        "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/10/07/d6/1007d651-3b70-b2d8-0e9f-40fa2d37a469/71fae281-0e45-44ab-88ce-36418ec450a1_iPhoneX_8A.jpg/600x0w.webp"
       ]
     }
   ],
@@ -137,7 +115,6 @@
       "caption": "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so it cannot be updated",
       "date": "2023-02-11",
       "identifier": "spotify-last-update",
-      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgIVYftod8ga_sGXED1ctS8OJInVPF9jwQg&usqp=CAU",
       "notify": false,
       "tintColor": "#1ed760",
       "title": "Spotify++ Updated - and last for a while"
@@ -147,7 +124,6 @@
       "identifier": "soundcloud-updated",
       "caption": "SoundCloud++ has been updated to the latest version (v6.16.1), DarkCloud remains at the latest version (v1.4)",
       "tintColor": "#db5b14",
-      "imageURL": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg?w=1500&quality=82&strip=all&ssl=1",
       "appID": "com.soundcloud.TouchApp",
       "date": "2023-02-11",
       "notify": false
