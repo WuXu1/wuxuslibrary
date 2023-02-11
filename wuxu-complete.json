@@ -59,6 +59,9 @@
           "type": "faceid",
           "usageDescription": "This lets you set access restrictions using Face ID."
         }
+      ],
+      "screenshotURLs": [
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg"
       ]
     },
     {
