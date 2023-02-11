@@ -9,9 +9,17 @@
       "subtitle": "Spotify with free premium.",
       "versions": [
         {
+          "version": "8.6.42",
+          "date": "2021-07-09",
+          "localizedDescription": "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8",
+          "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
+          "size": 50100000,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "8.5.60",
           "date": "2020-06-01",
-          "localizedDescription": "Spotify Updated to v8.5.60, Spotilife Updated to v1.7",
+          "localizedDescription": "• Spotify Updated to v8.5.60\n• Spotilife Updated to v1.7",
           "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Old/Spotify.v8.5.60.+.Spotilife.v1.7.ipa",
           "size": 34200000,
           "minOSVersion": "11.0"
@@ -19,52 +27,18 @@
       ],
       "version": "8.6.42",
       "versionDate": "2021-07-09",
-      "versionDescription": "Latest version of spotify that works with Spotilife v1.8 (latest)",
+      "versionDescription": "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8",
       "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
-      "localizedDescription": "Spotify++ is essentially the same as normal Spotify. Except it contains an injected tweak that activates premium features, the same features you would have if you purchased Spotify Premium. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App",
-      "iconURL": "https://cdn.jim-nielsen.com/ios/1024/spotify-music-2015-07-30.png",
+      "localizedDescription": "Spotify++ is essentially the same as normal Spotify. Except it is injected with a tweak that activates premium features. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App",
+      "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-icon.jpg",
       "tintColor": "#1ed760",
       "size": 50100000,
       "minOSVersion": "12.0",
-      "permissions": [
-        {
-          "type": "camera",
-          "usageDescription": "This lets you scan Spotify Codes."
-        },
-        {
-          "type": "photos",
-          "usageDescription": "This lets you save and select images to and from your Photo Library."
-        },
-        {
-          "type": "music",
-          "usageDescription": "This will let you play your imported music on Spotify."
-        },
-        {
-          "type": "motion",
-          "usageDescription": "Used to control your tempo for Spotify Running."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you control Spotify using your voice."
-        },
-        {
-          "type": "bluetooth",
-          "usageDescription": "This lets you use Spotify with external accessories."
-        },
-        {
-          "type": "network",
-          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
-        },
-        {
-          "type": "faceid",
-          "usageDescription": "This lets you set access restrictions using Face ID."
-        }
-      ],
       "screenshotURLs": [
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.jpg",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4-jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.jpg",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.jpg",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.jpg",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.jpg",
