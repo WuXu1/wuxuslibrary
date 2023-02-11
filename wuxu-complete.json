@@ -1,0 +1,80 @@
+{
+  "WuXu's Library": "My Source",
+  "identifier": "com.wuxulibs.wuxuslibrary",
+  "apps": [
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "iJulioVerne",
+      "subtitle": "Spotify with free premium.",
+      "versions": [
+        {
+          "version": "8.5.60",
+          "date": "2020-06-01",
+          "localizedDescription": "Spotify Updated to v8.5.60, Spotilife Updated to v1.7",
+          "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Old/Spotify.v8.5.60.+.Spotilife.v1.7.ipa",
+          "size": 34200000,
+          "minOSVersion": "11.0"
+        }
+      ],
+      "version": "8.6.42",
+      "versionDate": "2021-07-09",
+      "versionDescription": "Latest version of spotify that works with Spotilife v1.8 (latest)"
+      "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
+      "localizedDescription": "Spotify++ is essentially the same as normal Spotify. Except it contains an injected tweak that activates premium features, the same features you would have if you purchased Spotify Premium. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App"
+      "iconURL": "https://cdn.jim-nielsen.com/ios/1024/spotify-music-2015-07-30.png",
+      "tintColor": "#1ed760",
+      "size": 50100000,
+      "minOSVersion": "12.0"
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "This lets you scan Spotify Codes."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "This lets you save and select images to and from your Photo Library."
+        },
+        {
+          "type": "music",
+          "usageDescription": "This will let you play your imported music on Spotify."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Used to control your tempo for Spotify Running."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you control Spotify using your voice."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use Spotify with external accessories."
+        },
+        {
+          "type": "network",
+          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you set access restrictions using Face ID."
+        }
+       ],
+       "screenshotURLs": [
+         "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/25/d5/ba25d51a-7b48-02bb-ae6d-754e3312cf1b/4e06a23e-334a-455b-9a4c-5125185208aa_iOS_-_6.5_-_THOL_-_S01_-_en-US.png/600x0w.webp",
+         "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/25/d5/ba25d51a-7b48-02bb-ae6d-754e3312cf1b/4e06a23e-334a-455b-9a4c-5125185208aa_iOS_-_6.5_-_THOL_-_S01_-_en-US.png/600x0w.webp",
+         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/76/92/9376926c-4a5b-d22a-b383-6ee1b6374b6d/3e57ff63-90ac-4fe3-bca3-3d4017058864_iOS_-_6.5_-_THOL_-_S03_-_en-US.png/600x0w.webp",
+         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/74/e3/ac74e3dd-312a-939d-3257-2500d94c8778/1eece19a-1b2b-4d13-bb8b-286f64047d69_iOS_-_6.5_-_THOL_-_S04_-_en-US.png/600x0w.webp",
+         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/74/dc/45/74dc454c-fcc5-da0c-c302-b96f642f9c24/c1087be8-e1bd-4d55-9c19-c63360d733c2_iOS_-_6.5_-_THOL_-_S05_-_en-US.png/600x0w.webp",
+         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/77/ae/d177ae9c-a81c-f7ca-ee42-00caf1c73056/e016fd14-c60e-405b-80ab-620f68f3260e_iOS_-_6.5_-_THOL_-_S06_-_en-US.png/600x0w.webp",
+         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/ae/cc/baaecc81-4975-c6ed-72e2-6ee0f99e88f7/58c5d138-dcd8-4da1-8d9d-07a70171a20f_iOS_-_6.5_-_THOL_-_S07_-_en-US.png/600x0w.webp",
+         "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/05/80/84/0580849f-d2b8-6c62-15c0-894d65b29cf4/e041b5d9-0d1b-4d95-93e4-12100e8fc0d3_iOS_-_6.5_-_THOL_-_S08_-_en-US.png/600x0w.webp",
+         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/57/99/0f/57990f0b-08f1-7675-0ac7-b25b1d788848/af5217ea-b3ef-4834-a230-8678d0e0ea47_iOS_-_6.5_-_THOL_-_S09_-_en-US.png/600x0w.webp",
+         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/57/99/0f/57990f0b-08f1-7675-0ac7-b25b1d788848/af5217ea-b3ef-4834-a230-8678d0e0ea47_iOS_-_6.5_-_THOL_-_S09_-_en-US.png/600x0w.webp"
+        ]
+      },
+      {
+        
+  
+         
+      
