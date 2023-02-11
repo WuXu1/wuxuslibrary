@@ -19,9 +19,9 @@
       ],
       "version": "8.6.42",
       "versionDate": "2021-07-09",
-      "versionDescription": "Latest version of spotify that works with Spotilife v1.8 (latest)"
+      "versionDescription": "Latest version of spotify that works with Spotilife v1.8 (latest)",
       "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
-      "localizedDescription": "Spotify++ is essentially the same as normal Spotify. Except it contains an injected tweak that activates premium features, the same features you would have if you purchased Spotify Premium. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App"
+      "localizedDescription": "Spotify++ is essentially the same as normal Spotify. Except it contains an injected tweak that activates premium features, the same features you would have if you purchased Spotify Premium. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/e0/43/3ee04389-da9f-a89c-67a1-222ca0566d64/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/434x0w.webp",
       "tintColor": "#1ed760",
       "size": 50100000,
@@ -96,7 +96,7 @@
       "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/65/c2/52/65c252fb-b74f-97d7-3765-05619b45d5f3/AppIcon-1x_U007emarketing-0-8-0-85-220.png/492x0w.webp",
       "tintColor": "#db5b14",
       "size": 73000000,
-      "minOSVersion": "14.0"
+      "minOSVersion": "14.0",
       "permissions": [
         {
           "type": "photos",
@@ -115,7 +115,7 @@
           "usageDescription": "This gives SoundCloud Access to local audio files."
         },
         {
-          "type": "faceid"
+          "type": "faceid",
           "usageDescription": "This lets you set access restrictions using Face ID."
         }
       ],
@@ -143,14 +143,14 @@
       "title": "Spotify++ Updated - and last for a while"
     },
     {
-      "title": "SoundCloud++ Updated!"
+      "title": "SoundCloud++ Updated!",
       "identifier": "soundcloud-updated",
       "caption": "SoundCloud++ has been updated to the latest version (v6.16.1), DarkCloud remains at the latest version (v1.4)",
-      "tintColor": "#db5b14"
-      "imageURL": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg?w=1500&quality=82&strip=all&ssl=1"
+      "tintColor": "#db5b14",
+      "imageURL": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg?w=1500&quality=82&strip=all&ssl=1",
       "appID": "com.soundcloud.TouchApp",
       "date": "2023-02-11",
       "notify": false
     }
-  ],
+  ]
 }
