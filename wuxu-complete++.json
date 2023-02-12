@@ -229,7 +229,7 @@
     {
       "title" : "Spotify++ Updated - and last for a while",
       "identifier" : "spotify-last-update",
-      "caption" : "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so this is the last version enabling premium.",
+      "caption" : "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so this is the last version enabling premium. However UI customization continues :)",
       "tintColor" : "#1c843c",
       "imageURL" : "https://www.thesun.co.uk/wp-content/uploads/2020/07/NINTCHDBPICT000559619707.jpg",
       "appID" : "com.spotify.client",
