@@ -225,7 +225,7 @@
     },
     {
       "name" : "Spotify++ (w/ Deluxe)",
-      "bundleIdentifier" : "com.spotify.client",
+      "bundleIdentifier" : "com.spotify.client+",
       "developerName" : "Jacks_Cracks",
       "subtitle" : "Spotify with free premium, and extra ui features",
       "versions" : [
@@ -337,7 +337,7 @@
       "caption" : "Spotify++ w/ deluxe offers the same tweak as Spotify++. But with extra ui features.",
       "tintColor" : "#1c843c",
       "imageURL" : "https://www.scdn.co/i/_global/open-graph-default.png",
-      "appID" : "com.spotify.client",
+      "appID" : "com.spotify.client+",
       "date" : "2023-02-11",
       "notify" : false
     }
