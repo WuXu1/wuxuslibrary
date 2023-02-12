@@ -93,6 +93,16 @@
   ],
   "news": [
     {
+      "title": "Welcome to WuXu's Library!",
+      "itentifier": "welcome-message",
+      "caption": "Welcome to WuXu's Library, an IPA library with an active developer that loves sideloading!.\n\nWuXu's Library is the most up-to-date altstore source there is, with all tweaks and apps being checked and updated every day.\n\n Click here to join the Discord for more information on making requests and support!\n\n Happy sideloading, WuXu ;)",
+      "tintColor": "#7809a4",
+      "imageURL": "https://i.imgur.com/kQdZGXp.png",
+      "url": "https://discord.gg/ncC2N3tvu2",
+      "date": "2023-02-12",
+      "notify": true
+    },
+    {
       "title": "Spotify++ Updated - and last for a while",
       "identifier": "spotify-last-update",
       "caption": "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so it cannot be updated",
@@ -101,8 +111,6 @@
       "appID": "com.spotify.client",
       "date": "2023-02-12",
       "notify": false
-      
-      
     },
     {
       "title": "SoundCloud++ Updated!",
