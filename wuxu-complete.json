@@ -36,7 +36,7 @@
     {
       "name" : "ESign",
       "bundleIdentifier" : "p3.xyz.yyyue.esign",
-      "developerName" : "支付宝",
+      "developerName" : "esign.yyyue.xyz",
       "subtitle" : "IPA Self Signer, Tweak Injector, File Manager",
       "versions" : [
         {
@@ -45,7 +45,7 @@
           "localizedDescription" : "ESign updated to v4.7.5",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
           "size" : 8200000,
-          "minOSVersion" : "12.0"
+          "minOSVersion" : "11.0"
         }
       ],
       "version" : "4.7.5",
@@ -56,7 +56,7 @@
       "iconURL" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
       "tintColor" : "#356ead",
       "size" : 8200000,
-      "minOSVersion" : "12.0",
+      "minOSVersion" : "11.0",
       "screenshotURLs" : [
         "https://static.appdb.to/images/cydia-1900000897-iphone-0-1670149926.png",
         "https://static.appdb.to/images/cydia-1900000897-iphone-1-1670149926.png",
