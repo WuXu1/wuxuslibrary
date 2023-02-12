@@ -31,7 +31,7 @@
       "downloadURL": "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
       "localizedDescription": "Spotify++ is essentially the same as normal Spotify. Except it is injected with a tweak that activates premium features. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App",
       "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
-      "tintColor": "#1ed760",
+      "tintColor": "#1c843c",
       "size": 50100000,
       "minOSVersion": "12.0",
       "screenshotURLs": [
@@ -96,7 +96,7 @@
       "title": "Spotify++ Updated - and last for a while",
       "identifier": "spotify-last-update",
       "caption": "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so it cannot be updated",
-      "tintColor": "#1ed760",
+      "tintColor": "#1c843c",
       "imageURL": "https://www.thesun.co.uk/wp-content/uploads/2020/07/NINTCHDBPICT000559619707.jpg",
       "appID": "com.spotify.client",
       "date": "2023-02-12",
