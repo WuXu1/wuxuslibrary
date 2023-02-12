@@ -56,7 +56,7 @@
         {
           "version" : "6.16.1",
           "date" : "2023-02-02",
-          "localizedDescription" : "•Updated SoundCloud to v6.16.1\n•DarkCloud remains at Latest (v1.4)",
+          "localizedDescription" : "• Updated SoundCloud to v6.16.1\n• DarkCloud remains at Latest (v1.4)",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/SoundCloud.v6.16.1.+.DarkCloud.v1.4.ipa",
           "size" : 73000000,
           "minOSVersion" : "14.0"
@@ -64,7 +64,7 @@
         {
           "version" : "6.16.0",
           "date" : "2023-01-30",
-          "localizedDescription" : "• Updated SoundCloud to v6.16.0\n• Updated DarkCloud to v1.4",
+          "localizedDescription" : "• Updated SoundCloud to v6.16.0\n• DarkCloud remains at latest (v1.4)",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Old/SoundCloud.v6.16.0.+.DarkCloud.v1.4.ipa",
           "size" : 72900000,
           "minOSVersion" : "14.0"
@@ -159,7 +159,7 @@
     {
       "name" : "YouTube++",
       "bundleIdentifier" : "com.google.ios.youtube",
-      "developerName" : "MiRO92",
+      "developerName" : "MiRO92\nMiRO92",
       "subtitle" : "Tweaked YouTube with extra features.",
       "versions" : [
         {
@@ -189,6 +189,39 @@
         "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-6.jpg",
         "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-7.jpg"
       ]
+    },
+    {
+      "name" : "BeReal++",
+      "bundleIdentifier" : "AlexisBarreyat.BeReal",
+      "developerName" : "Avangelista",
+      "subtitle" : "See your friends BeReals without needing to post anything!",
+      "versions" : [
+        {
+          "version" : "0.32.0",
+          "date" : "2023-02-12",
+          "localizedDescription" : "BeReal updated to v0.32.0\nUnBlur remains at latest (v0.0.2)",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
+          "size" : 27900000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "0.32.0",
+      "versionDate" : "2023-02-12",
+      "versionDescription" : "BeReal updated to v0.32.0\nUnBlur remains at latest (v0.0.2)",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
+      "localizedDescription" : "Unblur your friends’ posts on BeReal, even when you have not yet posted. All functions of the app work as normal.",
+      "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
+      "tintColor" : "#363636",
+      "size" : 27900000,
+      "minOSVersion" : "14.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.jpg"
+      ]
     }
   ],
   "news" : [
@@ -214,7 +247,7 @@
     {
       "title" : "Spotify++ Updated - and last for a while",
       "identifier" : "spotify-last-update",
-      "caption" : "Spotify has been updated to v8.6.42 along with Spotilife to v1.8. Sadly, Spotify has patched Spotilife on all later versions - so it cannot be updated",
+      "caption" : "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so it cannot be updated",
       "tintColor" : "#1c843c",
       "imageURL" : "https://www.thesun.co.uk/wp-content/uploads/2020/07/NINTCHDBPICT000559619707.jpg",
       "appID" : "com.spotify.client",
@@ -258,6 +291,16 @@
       "tintColor" : "#af0303",
       "imageURL" : "https://i.kym-cdn.com/entries/icons/original/000/004/562/youtube-logo-1920-800x4501.jpg",
       "appID" : "com.google.ios.youtube",
+      "date" : "2023-02-12",
+      "notify" : false
+    },
+    {
+      "title" : "BeReal++ Updated!",
+      "identifier" : "bereal-updated",
+      "caption" : "YouTube has been updated to v18.01.6 along with uYou+, now v2.1.3. No updates for UnBlur since last release.",
+      "tintColor" : "#363636",
+      "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
+      "appID" : "AlexisBarreyat.BeReal",
       "date" : "2023-02-12",
       "notify" : false
     }
