@@ -32,6 +32,37 @@
         "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
       ]
+    },
+    {
+      "name" : "ESign",
+      "bundleIdentifier" : "p3.xyz.yyyue.esign",
+      "developerName" : "支付宝",
+      "subtitle" : "IPA Self Signer, Tweak Injector, File Manager",
+      "versions" : [
+        {
+          "version" : "4.7.5",
+          "date" : "2023-02-11",
+          "localizedDescription" : "ESign updated to v4.7.5",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
+          "size" : 8200000,
+          "minOSVersion" : "12.0"
+        }
+      ],
+      "version" : "4.7.5",
+      "versionDate" : "2023-02-11",
+      "versionDescription" : "ESign Updated to v4.7.5",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
+      "localizedDescription" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
+      "iconURL" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
+      "tintColor" : "#356ead",
+      "size" : 8200000,
+      "minOSVersion" : "12.0",
+      "screenshotURLs" : [
+        "https://static.appdb.to/images/cydia-1900000897-iphone-0-1670149926.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-1-1670149926.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-2-1670149927.png",
+        ""
+      ]
     }
   ],
   "news" : [
