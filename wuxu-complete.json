@@ -94,7 +94,7 @@
   "news": [
     {
       "title": "Welcome to WuXu's Library!",
-      "itentifier": "welcome-message",
+      "identifier": "welcome-message",
       "caption": "Welcome to WuXu's Library, an IPA library with an active developer that loves sideloading!. WuXu's Library is the most up-to-date altstore source there is, with all tweaks and apps being checked and updated every day.",
       "tintColor": "#7809a4",
       "imageURL": "https://i.imgur.com/kQdZGXp.png",
