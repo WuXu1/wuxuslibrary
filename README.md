@@ -1,2 +1,2 @@
 # wuxuslibrary
-The Most Up-To-Date IPA Library
+An active Altstore Source whith the most Up-To-Date IPA library. 
