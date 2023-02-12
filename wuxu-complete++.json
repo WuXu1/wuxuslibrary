@@ -3,36 +3,28 @@
   "identifier" : "com.wuxulibs.wuxuslibrary++",
   "apps" : [
     {
-      "name" : "Spotify++",
+      "name" : "Spotify++ (w/ Deluxe)",
       "bundleIdentifier" : "com.spotify.client",
-      "developerName" : "iJulioVerne",
-      "subtitle" : "Spotify with free premium.",
+      "developerName" : "Jacks_Cracks",
+      "subtitle" : "Spotify with free premium, and extra UI features",
       "versions" : [
         {
           "version" : "8.6.42",
           "date" : "2021-07-09",
-          "localizedDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
-          "size" : 50100000,
+          "localizedDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Volify Updated to v2.0.2\n• SpotifyEqualizerEnhancer Updated to v1.2.0\n",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Deluxe.ipa",
+          "size" : 50200000,
           "minOSVersion" : "12.0"
-        },
-        {
-          "version" : "8.5.60",
-          "date" : "2020-06-01",
-          "localizedDescription" : "• Spotify Updated to v8.5.60\n• Spotilife Updated to v1.7",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Old/Spotify.v8.5.60.+.Spotilife.v1.7.ipa",
-          "size" : 34200000,
-          "minOSVersion" : "11.0"
         }
       ],
       "version" : "8.6.42",
-      "versionDate" : "2023-02-12",
-      "versionDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.ipa",
-      "localizedDescription" : "Spotify++ is essentially the same as normal Spotify. Except it is injected with a tweak that activates premium features. There is only one exception: No downloads\n\nSo what does Spotify++ offer?\n\n• No Ads\n• Unlimited skips\n• Play any song or album\n• Extreme streaming quality enabled\n• No forced shuffle\n• Import songs from Music App",
+      "versionDate" : "2022-02-12",
+      "versionDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Volify Updated to v2.0.2\n• SpotifyEqualizerEnhancer Updated to v1.2.0\n",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Deluxe.ipa",
+      "localizedDescription" : "Spotify++ (w/ Deluxe) contants a tweak that activated Premium. As well as a number of tweaks to customise the UI\n\nHere are the following tweaks:\n\n• Spotilife 1.8 - Premium for free\n• Volify 2.0.2 - adds a volume bar to spotify\n• SpotifyHIFIUnlocker - gives you the HIFI early but it is a beta so keep that in mind (so you won't see the button)\n• ColorBoard 0.0.4 - Changes your keyboard's colour based on the app's icon colour\n• SpotifyEqualizerEnhancer 1.2.0 - Makes the equalizer so much better\n• SpotifyAllowSetting 1.0 - Enable all of the settings in Spotify that are usually disabled when using pc\n\n\n\n\n",
       "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
       "tintColor" : "#1c843c",
-      "size" : 50100000,
+      "size" : 50200000,
       "minOSVersion" : "12.0",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg",
@@ -88,6 +80,39 @@
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.jpg",
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.jpg",
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.jpg"
+      ]
+    },
+    {
+      "name" : "BeReal++",
+      "bundleIdentifier" : "AlexisBarreyat.BeReal",
+      "developerName" : "Avangelista",
+      "subtitle" : "See your friends BeReals without posting anything!",
+      "versions" : [
+        {
+          "version" : "0.32.0",
+          "date" : "2023-02-12",
+          "localizedDescription" : "BeReal updated to v0.32.0\nUnBlur remains at latest (v0.0.2)",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
+          "size" : 27900000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "0.32.0",
+      "versionDate" : "2023-02-12",
+      "versionDescription" : "BeReal updated to v0.32.0\nUnBlur remains at latest (v0.0.2)",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
+      "localizedDescription" : "Unblur your friends’ posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
+      "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
+      "tintColor" : "#363636",
+      "size" : 27900000,
+      "minOSVersion" : "14.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.jpg",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.jpg"
       ]
     },
     {
@@ -189,76 +214,6 @@
         "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-6.jpg",
         "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-7.jpg"
       ]
-    },
-    {
-      "name" : "BeReal++",
-      "bundleIdentifier" : "AlexisBarreyat.BeReal",
-      "developerName" : "Avangelista",
-      "subtitle" : "See your friends BeReals without posting anything!",
-      "versions" : [
-        {
-          "version" : "0.32.0",
-          "date" : "2023-02-12",
-          "localizedDescription" : "BeReal updated to v0.32.0\nUnBlur remains at latest (v0.0.2)",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
-          "size" : 27900000,
-          "minOSVersion" : "14.0"
-        }
-      ],
-      "version" : "0.32.0",
-      "versionDate" : "2023-02-12",
-      "versionDescription" : "BeReal updated to v0.32.0\nUnBlur remains at latest (v0.0.2)",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
-      "localizedDescription" : "Unblur your friends’ posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
-      "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
-      "tintColor" : "#363636",
-      "size" : 27900000,
-      "minOSVersion" : "14.0",
-      "screenshotURLs" : [
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.jpg",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.jpg",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.jpg",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.jpg",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.jpg",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.jpg"
-      ]
-    },
-    {
-      "name" : "Spotify++ (w/ Deluxe)",
-      "bundleIdentifier" : "com.spotify.client",
-      "developerName" : "Jacks_Cracks",
-      "subtitle" : "Spotify with free premium, and extra ui features",
-      "versions" : [
-        {
-          "version" : "8.6.42",
-          "date" : "2021-07-09",
-          "localizedDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Volify Updated to v2.0.2\n• SpotifyEqualizerEnhancer Updated to v1.2.0\n",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Deluxe.ipa",
-          "size" : 50200000,
-          "minOSVersion" : "12.0"
-        }
-      ],
-      "version" : "8.6.42",
-      "versionDate" : "2022-02-09",
-      "versionDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Volify Updated to v2.0.2\n• SpotifyEqualizerEnhancer Updated to v1.2.0\n",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Deluxe.ipa",
-      "localizedDescription" : "Spotify++ (w/ Deluxe) contains the same tweak as Spotify++, but Deluxe offers many customisable features to the UI\n\nDeluxe contains the following tweaks:\n\n• Volify 2.0.2 - adds a volume bar to spotify\n• Spotilife 1.8 - Premium for free\n• SpotifyHIFIUnlocker - gives you the HIFI early but it is a beta so keep that in mind (so you won't see the button)\n• ColorBoard 0.0.4 - Changes your keyboard's colour based on the app's icon colour\n• SpotifyEqualizerEnhancer 1.2.0 - Makes the equalizer so much better\n• SpotifyAllowSetting 1.0 - Enable all of the settings in Spotify that are usually disabled when using pc\n\n\n\n\n",
-      "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
-      "tintColor" : "#1c843c",
-      "size" : 50200000,
-      "minOSVersion" : "12.0",
-      "screenshotURLs" : [
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.jpg"
-      ]
     }
   ],
   "news" : [
@@ -274,11 +229,11 @@
     {
       "title" : "Spotify++ Updated - and last for a while",
       "identifier" : "spotify-last-update",
-      "caption" : "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so it cannot be updated",
+      "caption" : "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so this is the last version enabling premium.",
       "tintColor" : "#1c843c",
       "imageURL" : "https://www.thesun.co.uk/wp-content/uploads/2020/07/NINTCHDBPICT000559619707.jpg",
       "appID" : "com.spotify.client",
-      "date" : "2023-02-11",
+      "date" : "2023-02-12",
       "notify" : false
     },
     {
@@ -329,16 +284,6 @@
       "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
       "appID" : "AlexisBarreyat.BeReal",
       "date" : "2023-02-12",
-      "notify" : false
-    },
-    {
-      "title" : "Spotify++ (w/ Deluxe) Added!",
-      "identifier" : "spotify-deluxe-added",
-      "caption" : "Spotify++ w/ deluxe offers the same tweak as Spotify++. But with extra UI features.",
-      "tintColor" : "#1c843c",
-      "imageURL" : "https://www.scdn.co/i/_global/open-graph-default.png",
-      "appID" : "com.spotify.client",
-      "date" : "2023-02-11",
       "notify" : false
     }
   ]
