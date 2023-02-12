@@ -77,7 +77,7 @@
     {
       "title" : "Join the Discord!",
       "identifier" : "discord-info",
-      "caption" : "Click on this post to join the server, where you can make requests, get support or give me feedback.",
+      "caption" : "Click on this post to join the server. A place where you can make requests, get support or give feedback.",
       "tintColor" : "#5865f2",
       "imageURL" : "https://imgur.com/A4d8bGv.png",
       "url" : "https://discord.gg/ncC2N3tvu2",
