@@ -194,7 +194,7 @@
       "name" : "BeReal++",
       "bundleIdentifier" : "AlexisBarreyat.BeReal",
       "developerName" : "Avangelista",
-      "subtitle" : "See your friends BeReals without needing to post anything!",
+      "subtitle" : "See your friends BeReals without posting anything!",
       "versions" : [
         {
           "version" : "0.32.0",
@@ -209,7 +209,7 @@
       "versionDate" : "2023-02-12",
       "versionDescription" : "BeReal updated to v0.32.0\nUnBlur remains at latest (v0.0.2)",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
-      "localizedDescription" : "Unblur your friends’ posts on BeReal, even when you have not yet posted. All functions of the app work as normal.",
+      "localizedDescription" : "Unblur your friends’ posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
       "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
       "tintColor" : "#363636",
       "size" : 27900000,
