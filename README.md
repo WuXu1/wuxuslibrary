@@ -16,6 +16,6 @@ The most active AltSource and IPA Library - Updated Daily!
 
 [WuXu's Library++](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FWuXu1%2Fwuxuslibrary%2Fmain%2Fwuxu-complete%252B%252B.json) - Contains tweaked apps, free streaming, cracked apps, and more.
 
-# Join The Discord - https://discord.gg/ncC2N3tvu2
+# Join The Discord - [Click Here](https://discord.gg/ncC2N3tvu2)
 
 Used for requests, support, general feedback and talk about sideloading!
