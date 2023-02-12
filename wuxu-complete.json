@@ -129,9 +129,17 @@
       "identifier" : "welcome-message",
       "caption" : "Welcome to WuXu's Library, an IPA library with an active developer that loves sideloading! WuXu's Library is the most up-to-date altstore source there is, with all tweaks and apps being checked and updated every day.",
       "tintColor" : "#7809a4",
-      "imageURL" : "https://i.imgur.com/kQdZGXp.png",
       "url" : "https://discord.gg/ncC2N3tvu2",
-      "date" : "2023-02-09",
+      "date" : "2023-02-08",
+      "notify" : true
+    },
+    {
+      "title" : "Join the Discord!"
+      "identifier" : "discord-info",
+      "caption" : "Click on this post to join, this is where you can make requests and get support if needed etc.",
+      "tintColor" : "#3e47a9",
+      "imageURL" : "https://i.imgur.com/4S0YJHy.png",
+      "date" : "2023-02-12",
       "notify" : true
     },
     {
@@ -141,7 +149,7 @@
       "tintColor" : "#1c843c",
       "imageURL" : "https://www.thesun.co.uk/wp-content/uploads/2020/07/NINTCHDBPICT000559619707.jpg",
       "appID" : "com.spotify.client",
-      "date" : "2023-02-12",
+      "date" : "2023-02-11",
       "notify" : false
     },
     {
@@ -151,7 +159,7 @@
       "tintColor" : "#db5b14",
       "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
       "appID" : "com.soundcloud.TouchApp",
-      "date" : "2023-02-11",
+      "date" : "2023-02-10",
       "notify" : false
     },
     {
@@ -161,7 +169,7 @@
       "tintColor" : "#930a5b",
       "imageURL" : "https://i.imgur.com/UWob3m1.jpg",
       "appID" : "com.burbn.instagram",
-      "date" : "2023-02-10",
+      "date" : "2023-02-09",
       "notify" : false
     }
   ]
