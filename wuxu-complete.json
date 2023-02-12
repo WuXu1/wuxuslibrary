@@ -1,0 +1,68 @@
+{
+  "name" : "WuXu's Library",
+  "identifier" : "com.wuxulibs.wuxuslibrary",
+  "apps" : [
+    {
+      "name" : "AppDB Client",
+      "bundleIdentifier" : "it.ned.appdb-ios",
+      "developerName" : "ned",
+      "subtitle" : "A fully-featured iOS client for appdb.to",
+      "versions" : [
+        {
+          "version" : "1.1.3",
+          "date" : "2023-02-12",
+          "localizedDescription" : "AppDB Client Updated to v1.1.3",
+          "downloadURL" : "https://github.com/n3d1117/appdb/releases/download/v1.1.3/appdb_1.1.3_hotfix4.ipa",
+          "size" : 24600000,
+          "minOSVersion" : "10.0"
+        }
+      ],
+      "version" : "1.1.3",
+      "versionDate" : "2023-02-12",
+      "versionDescription" : "AppDB Client Uodated to v1.1.3",
+      "downloadURL" : "https://github.com/n3d1117/appdb/releases/download/v1.1.3/appdb_1.1.3_hotfix4.ipa",
+      "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
+      "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
+      "tintColor" : "#0365a0",
+      "size" : 24600000,
+      "minOSVersion" : "10.0",
+      "screenshotURLs" : [
+        "https://static.appdb.to/images/cydia-1900000538-iphone-0-1615476553.png",
+        "https://static.appdb.to/images/cydia-1900000538-iphone-1-1615476554.png",
+        "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
+        "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
+      ]
+    }
+  ],
+  "news" : [
+    {
+      "title" : "Welcome to WuXu's Library!",
+      "identifier" : "welcome-message",
+      "caption" : "Welcome to WuXu's Library, an IPA library with an active developer that loves sideloading! WuXu's Library is the most up-to-date altstore source there is, with all tweaks and apps being checked and updated every day.",
+      "tintColor" : "#7809a4",
+      "url" : "https://discord.gg/ncC2N3tvu2",
+      "date" : "2023-02-08",
+      "notify" : true
+    },
+    {
+      "title" : "Join the Discord!",
+      "identifier" : "discord-info",
+      "caption" : "Click on this post to join the server, where you can make requests, get support or give me feedback.",
+      "tintColor" : "#5865f2",
+      "imageURL" : "https://imgur.com/A4d8bGv.png",
+      "url" : "https://discord.gg/ncC2N3tvu2",
+      "date" : "2023-02-12",
+      "notify" : true
+    },
+    {
+      "title" : "AppDB Client Added!",
+      "identifier" : "appdb-added",
+      "caption" : "A new, beautiful, and open source appdb client for iOS.",
+      "tintColor" : "#0365a0",
+      "imageURL" : "https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png",
+      "appID" : "it.ned.appdb-ios",
+      "date" : "2023-02-12",
+      "notify" : false
+    }
+  ]
+}
