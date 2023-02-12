@@ -297,7 +297,7 @@
     {
       "title" : "BeReal++ Updated!",
       "identifier" : "bereal-updated",
-      "caption" : "YouTube has been updated to v18.01.6 along with uYou+, now v2.1.3. No updates for UnBlur since last release.",
+      "caption" : "BeReal has been updated to latest version (v0.32.0), UnBlur has not recieved an updated sicne last release (v0.0.2)",
       "tintColor" : "#363636",
       "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
       "appID" : "AlexisBarreyat.BeReal",
