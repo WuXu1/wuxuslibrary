@@ -8,7 +8,7 @@ The most active AltSource and IPA Library - Updated Daily!
 
 ![wuxuslibrary](https://user-images.githubusercontent.com/89362339/218333754-aa7d7f46-9a6c-4556-a1a1-a434c1d9a55b.png)
 
-[WuXu's Library](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FWuXu1%2Fwuxuslibrary%2Fmain%2Fwuxu-complete.json) - Contains all of your favorite emulators, games, jailbreaks, utilities, and more.
+[WuXu's Library](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FWuXu1%2Fwuxuslibrary%2Fmain%2Fwuxu-complete.json) - Contains all of your favorite emulators, games, jailbreaks, utilities, and more. [Add To AltStore](altstore://source?URL=https://raw.githubusercontent.com/WuXu1/wuxuslibrary/main/wuxu-complete.json)
 
 ## WuXu's Library++
 
