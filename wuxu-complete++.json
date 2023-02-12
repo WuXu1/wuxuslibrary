@@ -136,7 +136,7 @@
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Instagram.v269.0.+.Rocket+.v3.8.4.+.Plus+.v2.5.0.ipa",
       "localizedDescription" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
       "iconURL" : "https://img.ipa4fun.com/ab/4f/56/389801252-logo.jpg",
-      "tintColor" : "#b00840",
+      "tintColor" : "#930a5b",
       "size" : 115000000,
       "minOSVersion" : "13.4",
       "screenshotURLs" : [
@@ -247,6 +247,38 @@
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.jpg",
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.jpg"
       ]
+    },
+    {
+      "name" : "Twitter++",
+      "bundleIdentifier" : "com.atebits.Tweetie2",
+      "developerName" : "BandarHL",
+      "subtitle" : "An awesome tweak for Twitter!",
+      "versions" : [
+        {
+          "version" : "9.43.1",
+          "date" : "2023-02-10",
+          "localizedDescription" : "Updated Twitter to v9.43.1\nUpdated BHTwitter to v3.7",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Twitter.v9.43.1.+.BHT.v3.7.ipa",
+          "size" : 97000000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "9.43.1",
+      "versionDate" : "2021-02-10",
+      "versionDescription" : "Updated Twitter to v9.43.1\nUpdated BHTwitter to v3.7",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Twitter.v9.43.1.+.BHT.v3.7.ipa",
+      "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.",
+      "iconURL" : "https://img.ipa4fun.com/fe/b5/38/333903271-logo.jpg",
+      "tintColor" : "#146daa",
+      "size" : 97000000,
+      "minOSVersion" : "14.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-1.jpg",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-2.jpg",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-3.jpg",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.jpg",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.jpg"
+      ]
     }
   ],
   "news" : [
@@ -283,7 +315,7 @@
       "title" : "Instagram++ Updated!",
       "identifier" : "instagram-updated",
       "caption" : "Instagram has been updated to v269.0, along with Rocket (Cracked), updated to v3.8.4",
-      "tintColor" : "#b00840",
+      "tintColor" : "#930a5b",
       "imageURL" : "https://www.internetmatters.org/wp-content/uploads/2020/01/insta-logo-whie-background.png",
       "appID" : "com.burbn.instagram",
       "date" : "2023-02-09",
@@ -327,6 +359,16 @@
       "imageURL" : "https://malmo.se/images/18.d3f124617dc8953686e20d/1648651425712/FB_ikon2.png",
       "appID" : "com.facebook.Facebook",
       "date" : "2023-02-12",
+      "notify" : false
+    },
+    {
+      "title" : "Twitter++ Updated",
+      "identifier" : "twitter-updated",
+      "caption" : "Twitter has been updated to the latest version (v9.43.1, BHTwitter has been updated to v3.7",
+      "tintColor" : "#146daa",
+      "imageURL" : "https://globalventuring.com//content/uploads/2022/10/Twitter-horizontal.jpeg",
+      "appID" : "com.atebits.Tweetie2",
+      "date" : "2023-02-10",
       "notify" : false
     }
   ]
