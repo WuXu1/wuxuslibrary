@@ -7,3 +7,5 @@ The most active AltSource and IPA Library - Updated Daily!
 # Join The Discord
 
 # https://discord.gg/ncC2N3tvu2
+
+The Discord can be used for requests, support, general feedback and talk about sideloading!
