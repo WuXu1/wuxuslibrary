@@ -121,6 +121,40 @@
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-4.jpg",
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-5.jpg"
       ]
+    },
+    {
+      "name" : "TikTok++",
+      "bundleIdentifier" : "com.zhiliaoapp.musically",
+      "developerName" : "CrazyMind90",
+      "subtitle" : "Tweaked TikTok with extra features.",
+      "versions" : [
+        {
+          "version" : "27.9.0",
+          "date" : "2023-02-12",
+          "localizedDescription" : "Updated TikTok to v27.9.0\n\nThis is currently the latest version of TikTok that works with TikTokLRD (Cracked)",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v27.9.0.+.LRD+.ipa",
+          "size" : 160000000,
+          "minOSVersion" : "10.0"
+        }
+      ],
+      "version" : "27.9.0",
+      "versionDate" : "2023-02-12",
+      "versionDescription" : "Updated TikTok to v27.9.0\n\nThis is currently the latest version of TikTok that works with TikTokLRD (Cracked)",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v27.9.0.+.LRD+.ipa",
+      "localizedDescription" : "TikTokLRD (Cracked) - Add features to the TikTok App:\n\n• Save video without watermark\n• Share or save the video\n• Hide the user interface\n• Play the next video automatically\n• Skip watching live while watching automatically\n• Show progress bar for video\n• Enable high-quality video upload\n• Save a profile picture\n• Show the number of videos\n• Create favorite groups\n• Increase the number of letters in the comment to 240\n• Show the country code for the video\n• Enable copying for description and account\n• Enable comments transparency\n• Hide you just saw\n• Read closed comments\n• Watching videos under review\n• Show creation video date\n• Hide ADS\n• Change country\n• Confirm | cancel the like\n• Confirm | cancel the like in the comments\n• Confirm | cancel the follow\n• Lock the app",
+      "iconURL" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.jpg",
+      "tintColor" : "#000000",
+      "size" : 160000000,
+      "minOSVersion" : "10.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-1.jpg",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-2.jpg",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-3.jpg",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-4.jpg",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-5.jpg",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-6.jpg",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-7.jpg"
+      ]
     }
   ],
   "news" : [
@@ -171,6 +205,16 @@
       "imageURL" : "https://i.imgur.com/UWob3m1.jpg",
       "appID" : "com.burbn.instagram",
       "date" : "2023-02-09",
+      "notify" : false
+    },
+    {
+      "title" : "TikTok++ Updated!",
+      "identifier" : "tiktok-updated",
+      "caption" : "TikTok has been updated to the latest working version with the tweak (v27.9.0)",
+      "tintColor" : "#000000",
+      "imageURL" : "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/02/how-to-delete-tiktok-1220x683.jpg",
+      "appID" : "com.zhiliaoapp.musically",
+      "date" : "2023-02-12",
       "notify" : false
     }
   ]
