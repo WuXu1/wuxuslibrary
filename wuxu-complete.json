@@ -97,7 +97,7 @@
       "identifier": "spotify-last-update",
       "caption": "Spotify has been updated to v8.6.42 along with Spotilife, now v1.8. Sadly, Spotify has patched Spotilife on all later versions - so it cannot be updated",
       "tintColor": "#1ed760",
-      "imageURL": "https://wp.inews.co.uk/wp-content/uploads/2022/03/SEI_91193110.jpg",
+      "imageURL": "https://www.thesun.co.uk/wp-content/uploads/2020/07/NINTCHDBPICT000559619707.jpg",
       "appID": "com.spotify.client",
       "date": "2023-02-12",
       "notify": false
@@ -109,7 +109,7 @@
       "identifier": "soundcloud-updated",
       "caption": "SoundCloud++ has been updated to the latest version (v6.16.1), DarkCloud remains at the latest version (v1.4)",
       "tintColor": "#db5b14",
-      "imageURL": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg",
+      "imageURL": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
       "appID": "com.soundcloud.TouchApp",
       "date": "2023-02-12",
       "notify": false
