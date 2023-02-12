@@ -13,7 +13,7 @@
           "date" : "2023-02-10",
           "localizedDescription" : "AppDB Client Updated to v1.1.3",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/AppDB.Client.v1.1.3.ipa",
-          "size" : 24600000,
+          "size" : 24300000,
           "minOSVersion" : "10.0"
         }
       ],
@@ -24,7 +24,7 @@
       "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
       "tintColor" : "#0365a0",
-      "size" : 24600000,
+      "size" : 24300000,
       "minOSVersion" : "10.0",
       "screenshotURLs" : [
         "https://static.appdb.to/images/cydia-1900000538-iphone-0-1615476553.png",
