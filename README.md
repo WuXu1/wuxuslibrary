@@ -2,7 +2,8 @@
 
 # Welcome To WuXu's Library
 
-The most active AltSource
-and The Most Up-To-Date IPA Library
+The most active AltSource and IPA Library - Updated Daily!
 
+# Join The Discord
 
+# https://discord.gg/ncC2N3tvu2
