@@ -10,7 +10,7 @@
       "versions" : [
         {
           "version" : "1.1.3",
-          "date" : "2023-02-12",
+          "date" : "2023-02-10",
           "localizedDescription" : "AppDB Client Updated to v1.1.3",
           "downloadURL" : "https://github.com/n3d1117/appdb/releases/download/v1.1.3/appdb_1.1.3_hotfix4.ipa",
           "size" : 24600000,
@@ -18,7 +18,7 @@
         }
       ],
       "version" : "1.1.3",
-      "versionDate" : "2023-02-12",
+      "versionDate" : "2023-02-10",
       "versionDescription" : "AppDB Client Uodated to v1.1.3",
       "downloadURL" : "https://github.com/n3d1117/appdb/releases/download/v1.1.3/appdb_1.1.3_hotfix4.ipa",
       "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
@@ -41,7 +41,7 @@
       "versions" : [
         {
           "version" : "4.7.5",
-          "date" : "2023-02-11",
+          "date" : "2023-02-10",
           "localizedDescription" : "ESign updated to v4.7.5",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
           "size" : 8200000,
@@ -49,7 +49,7 @@
         }
       ],
       "version" : "4.7.5",
-      "versionDate" : "2023-02-11",
+      "versionDate" : "2023-02-10",
       "versionDescription" : "ESign Updated to v4.7.5",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
       "localizedDescription" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
@@ -71,7 +71,7 @@
       "identifier" : "welcome-message",
       "caption" : "Welcome to WuXu's Library. Contains all of your favorite emulators, games, jailbreaks, utilities, and more. Updated Daily.",
       "tintColor" : "#7809a4",
-      "date" : "2023-02-08",
+      "date" : "2023-02-10",
       "notify" : true
     },
     {
@@ -81,7 +81,7 @@
       "tintColor" : "#5865f2",
       "imageURL" : "https://imgur.com/A4d8bGv.png",
       "url" : "https://discord.gg/ncC2N3tvu2",
-      "date" : "2023-02-11",
+      "date" : "2023-02-12",
       "notify" : true
     },
     {
@@ -91,7 +91,7 @@
       "tintColor" : "#0365a0",
       "imageURL" : "https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png",
       "appID" : "it.ned.appdb-ios",
-      "date" : "2023-02-12",
+      "date" : "2023-02-10",
       "notify" : false
     },
     {
@@ -101,7 +101,7 @@
       "tintColor" : "#356ead",
       "imageURL" : "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
       "appID" : "p3.xyz.yyyue.esign",
-      "date" : "2023-02-11",
+      "date" : "2023-02-10",
       "notify" : false
     }
   ]
