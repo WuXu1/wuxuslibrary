@@ -38,9 +38,8 @@
     {
       "title" : "Welcome to WuXu's Library!",
       "identifier" : "welcome-message",
-      "caption" : "Welcome to WuXu's Library, an IPA library with an active developer that loves sideloading! WuXu's Library is the most up-to-date altstore source there is, with all tweaks and apps being checked and updated every day.",
+      "caption" : "Welcome to WuXu's Library. Contains all of your favorite emulators, games, jailbreaks, utilities, and more. Updated Daily.",
       "tintColor" : "#7809a4",
-      "url" : "https://discord.gg/ncC2N3tvu2",
       "date" : "2023-02-08",
       "notify" : true
     },
