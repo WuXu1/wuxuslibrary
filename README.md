@@ -4,9 +4,9 @@
 
 The most active AltSource and IPA Library - Updated Daily!
 
-[WuXu's Library](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FWuXu1%2Fwuxuslibrary%2Fmain%2Fwuxu-complete.json) - Contains all of your favorite emulators, games, jailbreaks, utilities, and more.
+[WuXu's Library](altstore://source?URL=https://raw.githubusercontent.com/WuXu1/wuxuslibrary/main/wuxu-complete.json) - Contains all of your favorite emulators, games, jailbreaks, utilities, and more.
 
-[WuXu's Library++](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FWuXu1%2Fwuxuslibrary%2Fmain%2Fwuxu-complete%252B%252B.json) - Contains tweaked apps, free streaming, cracked apps, and more.
+[WuXu's Library++](altstore://source?URL=https://raw.githubusercontent.com/WuXu1/wuxuslibrary/main/wuxu-complete%2B%2B.json) - Contains tweaked apps, free streaming, cracked apps, and more.
 
 # Join The Discord - https://discord.gg/ncC2N3tvu2
 
