@@ -134,7 +134,7 @@
       "notify" : true
     },
     {
-      "title" : "Join the Discord!"
+      "title" : "Join the Discord!",
       "identifier" : "discord-info",
       "caption" : "Click on this post to join, this is where you can make requests and get support if needed etc.",
       "tintColor" : "#3e47a9",
