@@ -226,22 +226,12 @@
   ],
   "news" : [
     {
-      "title" : "Welcome to WuXu's Library!",
+      "title" : "Welcome to WuXu's Library++!",
       "identifier" : "welcome-message",
-      "caption" : "Welcome to WuXu's Library, an IPA library with an active developer that loves sideloading! WuXu's Library is the most up-to-date altstore source there is, with all tweaks and apps being checked and updated every day.",
+      "caption" : "Welcome to WuXu's Library. Contains tweaked apps, free streaming, cracked apps, and more. Updated Daily. Click to join Discord.",
       "tintColor" : "#7809a4",
       "url" : "https://discord.gg/ncC2N3tvu2",
       "date" : "2023-02-08",
-      "notify" : true
-    },
-    {
-      "title" : "Join the Discord!",
-      "identifier" : "discord-info",
-      "caption" : "Click on this post to join the server, where you can make requests, get support or give me feedback.",
-      "tintColor" : "#5865f2",
-      "imageURL" : "https://imgur.com/A4d8bGv.png",
-      "url" : "https://discord.gg/ncC2N3tvu2",
-      "date" : "2023-02-12",
       "notify" : true
     },
     {
