@@ -10,7 +10,7 @@
       "versions" : [
         {
           "version" : "8.6.42",
-          "date" : "2021-07-09",
+          "date" : "2023-02-13",
           "localizedDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Volify Updated to v2.0.2\n• SpotifyEqualizerEnhancer Updated to v1.2.0\n",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Deluxe.ipa",
           "size" : 50100000,
@@ -18,7 +18,7 @@
         }
       ],
       "version" : "8.6.42",
-      "versionDate" : "2022-02-12",
+      "versionDate" : "2023-02-13",
       "versionDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Volify Updated to v2.0.2\n• SpotifyEqualizerEnhancer Updated to v1.2.0\n",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Deluxe.ipa",
       "localizedDescription" : "Spotify++ (w/ Deluxe) contants a tweak that activated Premium. As well as a number of tweaks to customise the UI\n\nHere are the following tweaks:\n\n• Spotilife 1.8 - Premium for free\n• Volify 2.0.2 - adds a volume bar to spotify\n• SpotifyHIFIUnlocker - gives you the HIFI early but it is a beta so keep that in mind (so you won't see the button)\n• SpotifyEqualizerEnhancer 1.2.0 - Makes the equalizer so much better\n• SpotifyAllowSetting 1.0 - Enable all of the settings in Spotify that are usually disabled when using pc\n\n\n\n\n",
@@ -47,7 +47,7 @@
       "versions" : [
         {
           "version" : "6.16.1",
-          "date" : "2023-02-02",
+          "date" : "2023-02-13",
           "localizedDescription" : "• Updated SoundCloud to v6.16.1\n• DarkCloud remains at Latest (v1.4)",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/SoundCloud.v6.16.1.+.DarkCloud.v1.4.ipa",
           "size" : 73000000,
@@ -63,7 +63,7 @@
         }
       ],
       "version" : "6.16.1",
-      "versionDate" : "2023-02-02",
+      "versionDate" : "2023-02-13",
       "versionDescription" : "Updated SoundCloud to v6.16.1\nDarkCloud at Latest (v1.4)",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Latest/SoundCloud.v6.16.1.+.DarkCloud.v1.4.ipa",
       "localizedDescription" : "SoundCloud Injected with DarkCloud - A Tweak that disables Ads and enables the developer menu.\n\nThe developer menu includes a wide range of adjustmets the user can make to the app, some include:\n\n• Block audio and video ads\n• Enable developer menu\n• Hide Go+ tab\n\nDon't worry, the tweaks you would expect (such as no ads) are enabled in the dev menu by default. So just install and enjoy.",
