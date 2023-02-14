@@ -11,17 +11,17 @@
         {
           "version" : "8.6.42",
           "date" : "2023-02-13",
-          "localizedDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Sposify Updated to v8.5.52\n• Volify Updated to v2.0.2",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.+.Sposify.v8.5.52.+.Volify.v2.0.2.ipa",
+          "localizedDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Sposify Updated to v8.5.52\n• Volify Updated to v2.0.2\n• SpotifyAllowSetting Updated to v1.0",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.+.Sposify.v8.5.52.+.Volify.v2.0.2.+.SpotifyAllowSetting.v1.0.ipa",
           "size" : 48100000,
           "minOSVersion" : "12.0"
         }
       ],
       "version" : "8.6.42",
       "versionDate" : "2023-02-13",
-      "versionDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Sposify Updated to v8.5.52\n• Volify Updated to v2.0.2",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.+.Sposify.v8.5.52.+.Volify.v2.0.2.ipa",
-      "localizedDescription" : "Spotify++ contants a tweak that activated Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife 1.8 - Premium for free\n• Volify 2.0.2 - adds a volume bar to spotify\n• SpotifyHIFIUnlocker - gives you the HIFI early but it is a beta so keep that in mind (so you won't see the button)\n• SpotifyEqualizerEnhancer 1.2.0 - Makes the equalizer so much better\n• SpotifyAllowSetting 1.0 - Enable all of the settings in Spotify that are usually disabled when using pc\n\n\n\n\n",
+      "versionDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Sposify Updated to v8.5.52\n• Volify Updated to v2.0.2\n• SpotifyAllowSetting Updated to v1.0",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.+.Sposify.v8.5.52.+.Volify.v2.0.2.+.SpotifyAllowSetting.v1.0.ipa",
+      "localizedDescription" : "Spotify++ contants a tweak that activated Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities..• Volify 2.0.2 - adds a volume bar to spotify\n• Volify - Adds a volume slider to Spotify\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.",
       "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
       "tintColor" : "#1c843c",
       "size" : 48100000,
