@@ -46,6 +46,14 @@
       "subtitle" : "SoundCloud with no ads and extra features.",
       "versions" : [
         {
+          "version" : "6.17.0",
+          "date" : "2023-02-14",
+          "localizedDescription" : "• Updated SoundCloud to v6.17.0\n• DarkCloud remains at Latest (v1.4)",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/SoundCloud.v6.17.0.+.DarkCloud.v1.4.ipa",
+          "size" : 73800000,
+          "minOSVersion" : "14.0"
+        },
+        {
           "version" : "6.16.1",
           "date" : "2023-02-13",
           "localizedDescription" : "• Updated SoundCloud to v6.16.1\n• DarkCloud remains at Latest (v1.4)",
@@ -304,12 +312,12 @@
     {
       "title" : "SoundCloud++ Updated!",
       "identifier" : "soundcloud-updated",
-      "caption" : "SoundCloud++ has been updated to the latest version (v6.16.1), DarkCloud remains at the latest version (v1.4)",
+      "caption" : "SoundCloud++ has been updated to the latest version (v6.17.0), DarkCloud remains at the latest version (v1.4)",
       "tintColor" : "#db5b14",
       "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
       "appID" : "com.soundcloud.TouchApp",
-      "date" : "2023-02-10",
-      "notify" : false
+      "date" : "2023-02-14",
+      "notify" : true
     },
     {
       "title" : "Instagram++ Updated!",
