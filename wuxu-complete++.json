@@ -296,7 +296,7 @@
       "versions" : [
         {
           "version" : "1.0.0-beta.1",
-          "date" : "2023-10-14",
+          "date" : "2023-02-14",
           "localizedDescription" : "Updated Anime Now to v1.0.0-beta.1",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
           "size" : 6380000,
@@ -304,7 +304,7 @@
         }
       ],
       "version" : "1.0.0-beta.1",
-      "versionDate" : "2023-10-14",
+      "versionDate" : "2023-02-14",
       "versionDescription" : "Updated Anime Now to v1.0.0-beta.1",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
       "localizedDescription" : "Features:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
