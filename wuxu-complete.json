@@ -63,6 +63,37 @@
         "https://static.appdb.to/images/cydia-1900000897-iphone-2-1670149927.png",
         "https://static.appdb.to/images/cydia-1900000897-iphone-3-1670149927.png"
       ]
+    },
+    {
+      "name" : "iTorrent",
+      "bundleIdentifier" : "ru.nonamedude.iTorrent",
+      "developerName" : "XITRIX",
+      "subtitle" : "An ordinary torrent client for iOS with Files app support",
+      "versions" : [
+        {
+          "version" : "1.9",
+          "date" : "2023-02-13",
+          "localizedDescription" : "iTorrent updated to v1.9",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/iTorrent.v1.9.ipa",
+          "size" : 12800000,
+          "minOSVersion" : "11.0"
+        }
+      ],
+      "version" : "1.9",
+      "versionDate" : "2023-02-13",
+      "versionDescription" : "iTorrent updated to v1.9",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/iTorrent.v1.9.ipa",
+      "localizedDescription" : "It is an ordinary torrent client for iOS with Files app support.\n\nWhat this app can do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• WebDAV Server\n• Select files to download or not\n• Change UI to dark theme\n• RSS Feed",
+      "iconURL" : "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
+      "tintColor" : "#b31c29",
+      "size" : 12800000,
+      "minOSVersion" : "11.0",
+      "screenshotURLs" : [
+        "https://static.appdb.to/images/cydia-1900000455-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-2.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-3.png"
+      ]
     }
   ],
   "news" : [
@@ -102,6 +133,16 @@
       "imageURL" : "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
       "appID" : "p3.xyz.yyyue.esign",
       "date" : "2023-02-10",
+      "notify" : false
+    },
+    {
+      "title" : "iTorrent Added!",
+      "identifier" : "itorrent-added",
+      "caption" : "iTorrent has been added to the library! A torrent client for iOS with Files app support. ",
+      "tintColor" : "#b31c29",
+      "imageURL" : "https://i.imgur.com/jnvDDpx.jpg",
+      "appID" : "ru.nonamedude.iTorrent",
+      "date" : "2023-02-13",
       "notify" : false
     }
   ]
