@@ -451,11 +451,11 @@
       "notify" : false
     },
     {
-      "title" : "ZiniTevi Added!",
+      "title" : "ZiniTevi++ Added!",
       "identifier" : "zinitevi-added",
-      "caption" : "Anime Now has been added to the library - a free anime streaming app",
+      "caption" : "A tweaked version of ZiniTevi has been added to the library - free movies, no ads",
       "tintColor" : "#333939",
-      "imageURL" : "https://firetvsticks.com/wp-content/uploads/2022/06/ZiniTevi-app.jpg",
+      "imageURL" : "https://zinitevi.app/wp-content/uploads/2020/05/zzzzzzzinitevi-1.png",
       "appID" : "jb.zini.tevi",
       "date" : "2023-02-15",
       "notify" : false
