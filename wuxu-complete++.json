@@ -272,7 +272,7 @@
         }
       ],
       "version" : "9.43.1",
-      "versionDate" : "2021-02-10",
+      "versionDate" : "2023-02-10",
       "versionDescription" : "Updated Twitter to v9.43.1\nUpdated BHTwitter to v3.7",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Twitter.v9.43.1.+.BHT.v3.7.ipa",
       "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.",
@@ -286,6 +286,36 @@
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-3.jpg",
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.jpg",
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.jpg"
+      ]
+    },
+    {
+      "name" : "Anime Now",
+      "bundleIdentifier" : "com.errorerrorerror.animenow",
+      "developerName" : "AnimeNow Team",
+      "subtitle" : "Watch your favorite anime shows anywhere!",
+      "versions" : [
+        {
+          "version" : "1.0.0-beta.1",
+          "date" : "2023-10-14",
+          "localizedDescription" : "Updated Anime Now to v1.0.0-beta.1",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
+          "size" : 6380000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "1.0.0-beta.1",
+      "versionDate" : "2023-10-14",
+      "versionDescription" : "Updated Anime Now to v1.0.0-beta.1",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
+      "localizedDescription" : "Features:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
+      "iconURL" : "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/applogo_readme.png",
+      "tintColor" : "#343334",
+      "size" : 6380000,
+      "minOSVersion" : "14.0",
+      "screenshotURLs" : [
+        "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/iphone_home_screenshot.png",
+        "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/iphone_search_screenshot.png",
+        "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/iphone_anime_details_screenshot.png"
       ]
     }
   ],
