@@ -289,15 +289,15 @@
       ]
     },
     {
-      "name" : "Anime Now!",
+      "name" : "Anime Now",
       "bundleIdentifier" : "com.errorerrorerror.animenow",
       "developerName" : "AnimeNow Team",
-      "subtitle" : "Watch your favorite anime shows anytime, anywhere.",
+      "subtitle" : "Watch your favorite Anime anywhere for free!",
       "versions" : [
         {
           "version" : "1.0.0-beta.1",
-          "date" : "2023-02-14",
-          "localizedDescription" : "Updated Anime Now! to v1.0.0-beta.1",
+          "date" : "2023-10-14",
+          "localizedDescription" : "Updated Anime Now to v1.0.0-beta.1",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
           "size" : 6380000,
           "minOSVersion" : "14.0"
@@ -305,9 +305,9 @@
       ],
       "version" : "1.0.0-beta.1",
       "versionDate" : "2023-02-14",
-      "versionDescription" : "Updated Anime Now! to v1.0.0-beta.1",
+      "versionDescription" : "Updated Anime Now to v1.0.0-beta.1",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
-      "localizedDescription" : "Anime Now! provides a way to view your favorite Anime for completely free - no login required\n\nFeatures:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
+      "localizedDescription" : "Features:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
       "iconURL" : "https://static.appdb.to/images/cydia-1900001008-icon-1669968478.png",
       "tintColor" : "#343334",
       "size" : 6380000,
@@ -331,7 +331,7 @@
       "notify" : true
     },
     {
-      "title" : "Spotify++ Updated - and last for a while",
+      "title" : "Spotify++ Updated - and last for a while...",
       "identifier" : "spotify-last-update",
       "caption" : "Spotify has been updated to v8.6.42, along with all of its tweaks. Sadly, Spotify has patched Spotilife on all later versions - so this is the last version enabling premium.",
       "tintColor" : "#1c843c",
@@ -408,6 +408,16 @@
       "imageURL" : "https://globalventuring.com//content/uploads/2022/10/Twitter-horizontal.jpeg",
       "appID" : "com.atebits.Tweetie2",
       "date" : "2023-02-10",
+      "notify" : false
+    },
+    {
+      "title" : "Anime Now! Added!",
+      "identifier" : "animenow-added",
+      "caption" : "Anime Now has been added to the repo - a free anime streaming app",
+      "tintColor" : "#343334",
+      "imageURL" : "https://i.imgur.com/iKOjfmi.png",
+      "appID" : "com.errorerrorerror.animenow",
+      "date" : "2023-02-14",
       "notify" : false
     }
   ]
