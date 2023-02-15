@@ -296,7 +296,7 @@
       "versions" : [
         {
           "version" : "1.0.0-beta.1",
-          "date" : "2023-02-14",
+          "date" : "2023-10-14",
           "localizedDescription" : "Updated Anime Now to v1.0.0-beta.1",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
           "size" : 6380000,
@@ -308,14 +308,15 @@
       "versionDescription" : "Updated Anime Now to v1.0.0-beta.1",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
       "localizedDescription" : "Features:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
-      "iconURL" : "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/applogo_readme.png",
+      "iconURL" : "https://static.appdb.to/images/cydia-1900001008-icon-1669968478.png",
       "tintColor" : "#343334",
       "size" : 6380000,
       "minOSVersion" : "14.0",
       "screenshotURLs" : [
-        "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/iphone_home_screenshot.png",
-        "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/iphone_search_screenshot.png",
-        "https://github.com/AnimeNow-Team/AnimeNow/raw/dev/Misc/Media/iphone_anime_details_screenshot.png"
+        "https://static.appdb.to/images/cydia-1900001008-iphone-0-1669964060.png",
+        "https://static.appdb.to/images/cydia-1900001008-iphone-1-1669964061.png",
+        "https://static.appdb.to/images/cydia-1900001008-iphone-2-1669964061.png",
+        "https://static.appdb.to/images/cydia-1900001008-iphone-3-1669964061.png"
       ]
     }
   ],
