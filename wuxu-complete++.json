@@ -296,7 +296,7 @@
       "versions" : [
         {
           "version" : "1.0.0-beta.1",
-          "date" : "2023-02-14",
+          "date" : "2023-10-14",
           "localizedDescription" : "Updated Anime Now to v1.0.0-beta.1",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
           "size" : 6380000,
@@ -317,6 +317,36 @@
         "https://static.appdb.to/images/cydia-1900001008-iphone-1-1669964061.png",
         "https://static.appdb.to/images/cydia-1900001008-iphone-2-1669964061.png",
         "https://static.appdb.to/images/cydia-1900001008-iphone-3-1669964061.png"
+      ]
+    },
+    {
+      "name" : "ZiniTevi++",
+      "bundleIdentifier" : "jb.zini.tevi",
+      "developerName" : "",
+      "subtitle" : "Watch free movies and TV Shows on your iPhone!",
+      "versions" : [
+        {
+          "version" : "1.5.0",
+          "date" : "2023-02-15",
+          "localizedDescription" : "Updated ZiniTevi to v1.5.0",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ZiniTevi+.v1.5.0.ipa",
+          "size" : 7580000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "1.5.0",
+      "versionDate" : "2023-02-15",
+      "versionDescription" : "Updated ZiniTevi to v1.5.0",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ZiniTevi+.v1.5.0.ipa",
+      "localizedDescription" : "App for Streaming Movies and TV Shows for free on your phone.\n\nApp features:\n\n• Play video online and offline.\n• Download multiple videos in background mode.\n• Stream video to Google's Chromecast, Airplay, Smart TV,\n• Android TV Box, Web Browser, UPnP, DLNA.\n• Add to favorites list.\n• Save to watched list.\n• Caption in video with all languages on over the world.\n• Trakt.tv to sync history and favorites list to the cloud.\n\nEnjoy!",
+      "iconURL" : "https://i.imgur.com/rgL5qrB.png",
+      "tintColor" : "#333939",
+      "size" : 7580000,
+      "minOSVersion" : "14.0",
+      "screenshotURLs" : [
+        "https://static.appdb.to/images/cydia-1900000660-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
       ]
     }
   ],
@@ -413,11 +443,21 @@
     {
       "title" : "Anime Now! Added!",
       "identifier" : "animenow-added",
-      "caption" : "Anime Now has been added to the repo - a free Anime streaming app with no ads or login required",
+      "caption" : "Anime Now has been added to the repo - a free anime streaming app",
       "tintColor" : "#343334",
       "imageURL" : "https://hi.letsdiskuss.com/assets/upl_files/488d7c8980.jpg",
       "appID" : "com.errorerrorerror.animenow",
       "date" : "2023-02-14",
+      "notify" : false
+    },
+    {
+      "title" : "ZiniTevi Added!",
+      "identifier" : "zinitevi-added",
+      "caption" : "Anime Now has been added to the library - a free anime streaming app",
+      "tintColor" : "#333939",
+      "imageURL" : "https://firetvsticks.com/wp-content/uploads/2022/06/ZiniTevi-app.jpg",
+      "appID" : "jb.zini.tevi",
+      "date" : "2023-02-15",
       "notify" : false
     }
   ]
