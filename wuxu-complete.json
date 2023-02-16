@@ -107,7 +107,6 @@
           "localizedDescription" : "• Updated WDBRemoveThreeAppLimit to v1.0",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/WDBRemoveThreeAppLimit.v1.0.Tweak.ipa",
           "size" : 88800,
-          "minOSVersion" : "15.7.1",
           "maxOSVersion" : "16.1.2"
         }
       ],
@@ -119,7 +118,6 @@
       "iconURL" : "https://static.appdb.to/images/cydia-1900001094-icon-1675647886.png",
       "tintColor" : "#404040",
       "size" : 88800,
-      "minOSVersion" : "15.7.1",
       "maxOSVersion_0" : "16.1.2",
       "screenshotURLs" : [
         "https://tools4hack.santalab.me/media/uploads/2023/02/release-wdbremovethreeapplimit-for-macdirtycow-remove-1appleid-3apps-limit-sideload-install-6-709x1536.jpg"
