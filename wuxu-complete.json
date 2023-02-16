@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name" : "WDPRemoveThreeAppLimit",
+      "name" : "WDBRemoveThreeAppLimit",
       "bundleIdentifier" : "com.worthdoingbadly.WDBRemoveThreeAppLimit",
       "developerName" : "zhuowei",
       "subtitle" : "Removes three app limit from AltStore!",
