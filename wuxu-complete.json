@@ -11,7 +11,7 @@
         {
           "version" : "1.1.3",
           "date" : "2023-02-10",
-          "localizedDescription" : "AppDB Client Updated to v1.1.3",
+          "localizedDescription" : "• AppDB Client Updated to v1.1.3",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/AppDB.Client.v1.1.3.ipa",
           "size" : 24300000,
           "minOSVersion" : "10.0"
@@ -19,7 +19,7 @@
       ],
       "version" : "1.1.3",
       "versionDate" : "2023-02-10",
-      "versionDescription" : "AppDB Client Uodated to v1.1.3",
+      "versionDescription" : "• AppDB Client Uodated to v1.1.3",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/AppDB.Client.v1.1.3.ipa",
       "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
@@ -42,7 +42,7 @@
         {
           "version" : "4.7.5",
           "date" : "2023-02-10",
-          "localizedDescription" : "ESign updated to v4.7.5",
+          "localizedDescription" : "• ESign updated to v4.7.5",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
           "size" : 8200000,
           "minOSVersion" : "11.0"
@@ -50,7 +50,7 @@
       ],
       "version" : "4.7.5",
       "versionDate" : "2023-02-10",
-      "versionDescription" : "ESign Updated to v4.7.5",
+      "versionDescription" : "• ESign Updated to v4.7.5",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
       "localizedDescription" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
@@ -73,7 +73,7 @@
         {
           "version" : "1.9",
           "date" : "2023-02-13",
-          "localizedDescription" : "iTorrent updated to v1.9",
+          "localizedDescription" : "• iTorrent updated to v1.9",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/iTorrent.v1.9.ipa",
           "size" : 12800000,
           "minOSVersion" : "11.0"
@@ -81,7 +81,7 @@
       ],
       "version" : "1.9",
       "versionDate" : "2023-02-13",
-      "versionDescription" : "iTorrent updated to v1.9",
+      "versionDescription" : "• iTorrent updated to v1.9",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/iTorrent.v1.9.ipa",
       "localizedDescription" : "iTorrent - a torrent client for iOS with Files app support.\n\nWhat this app can do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• WebDAV Server\n• Select files to download or not\n• Change UI to dark theme\n• RSS Feed",
       "iconURL" : "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
@@ -102,12 +102,13 @@
       "subtitle" : "Removes three app limit from AltStore!",
       "versions" : [
         {
-          "version" : "1.9",
-          "date" : "2023-02-13",
-          "localizedDescription" : "iTorrent updated to v1.9",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/iTorrent.v1.9.ipa",
-          "size" : 12800000,
-          "minOSVersion" : "11.0"
+          "version" : "1.0",
+          "date" : "2023-02-16",
+          "localizedDescription" : "• Updated WDBRemoveThreeAppLimit to v1.0",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/WDBRemoveThreeAppLimit.v1.0.Tweak.ipa",
+          "size" : 88800,
+          "minOSVersion" : "15.7.1",
+          "maxOSVersion" : "16.1.2"
         }
       ],
       "version" : "1.0",
