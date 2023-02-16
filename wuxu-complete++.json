@@ -348,6 +348,38 @@
         "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
         "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
       ]
+    },
+    {
+      "name" : "Photomath++",
+      "bundleIdentifier" : "com.microblink.PhotoMath",
+      "developerName" : "8.19.1",
+      "subtitle" : "Photomath with plus activated!",
+      "versions" : [
+        {
+          "version" : "8.19.1",
+          "date" : "2023-02-16",
+          "localizedDescription" : "Updated Photomath to v8.19.1",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
+          "size" : 12900000,
+          "minOSVersion" : "13.0"
+        }
+      ],
+      "version" : "8.19.1",
+      "versionDate" : "2023-02-16",
+      "versionDescription" : "Updated Photomath to v8.19.1",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
+      "localizedDescription" : "Photomath works as normal, only the premium features are activated as if you bought them.",
+      "iconURL" : "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
+      "tintColor" : "#830824",
+      "size" : 12900000,
+      "minOSVersion" : "13.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-2.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-3.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.jpg"
+      ]
     }
   ],
   "news" : [
@@ -458,6 +490,16 @@
       "imageURL" : "https://www.intofilm.org/intofilm-production/9628/scaledcropped/630x355/resources/9628/into-film-plus-catalogue-image-07-22.jpg",
       "appID" : "jb.zini.tevi",
       "date" : "2023-02-15",
+      "notify" : false
+    },
+    {
+      "title" : "Photomath++ Added!",
+      "identifier" : "photomath-added",
+      "caption" : "Photomath - with premium features activated - has been added to the library!",
+      "tintColor" : "#830824",
+      "imageURL" : "https://imageio.forbes.com/blogs-images/amitchowdhry/files/2014/10/Photomath.jpg",
+      "appID" : "com.microblink.PhotoMath",
+      "date" : "2023-02-16",
       "notify" : false
     }
   ]
