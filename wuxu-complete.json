@@ -178,7 +178,7 @@
     {
       "title" : "WDBRemoveThreeAppLimit Added!",
       "identifier" : "nolimit-added",
-      "caption" : "An app that removes the three app limit on altstore. (15.7.1-16.1.2)",
+      "caption" : "An app that removes the three app limit on AltStore. (15.7.1-16.1.2)",
       "tintColor" : "#404040",
       "imageURL" : "https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg",
       "appID" : "com.worthdoingbadly.WDBRemoveThreeAppLimit",
