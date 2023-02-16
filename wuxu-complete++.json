@@ -100,7 +100,7 @@
           "version" : "0.32.0",
           "date" : "2023-02-12",
           "localizedDescription" : "• BeReal updated to v0.32.0\n• UnBlur remains at latest (v0.0.2)",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.v0.0.2.ipa",
           "size" : 27900000,
           "minOSVersion" : "14.0"
         }
@@ -108,7 +108,7 @@
       "version" : "0.32.0",
       "versionDate" : "2023-02-12",
       "versionDescription" : "• BeReal updated to v0.32.0\n• UnBlur remains at latest (v0.0.2)",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.0.0.2.ipa",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.v0.0.2.ipa",
       "localizedDescription" : "Unblur your friends’ posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
       "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
       "tintColor" : "#363636",
