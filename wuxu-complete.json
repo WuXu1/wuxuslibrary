@@ -46,12 +46,20 @@
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
           "size" : 8200000,
           "minOSVersion" : "11.0"
+        },
+        {
+          "version" : "4.7.6",
+          "date" : "2023-02-20",
+          "localizedDescription" : "• ESign updated to v4.7.6",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.6.ipa",
+          "size" : 8200000,
+          "minOSVersion" : "11.0"
         }
       ],
-      "version" : "4.7.5",
+      "version" : "4.7.6",
       "versionDate" : "2023-02-10",
-      "versionDescription" : "• ESign Updated to v4.7.5",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
+      "versionDescription" : "• ESign Updated to v4.7.6",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.6.ipa",
       "localizedDescription" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
       "tintColor" : "#356ead",
@@ -154,13 +162,13 @@
       "notify" : false
     },
     {
-      "title" : "ESign Added!",
-      "identifier" : "esign-added",
-      "caption" : "An on-device IPA Signer, Tweak Injector and File Manager",
+      "title" : "ESign Updated!",
+      "identifier" : "esign-updated",
+      "caption" : "ESign has been updated to v4.7.6, click here for more info.",
       "tintColor" : "#356ead",
       "imageURL" : "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
       "appID" : "p3.xyz.yyyue.esign",
-      "date" : "2023-02-10",
+      "date" : "2023-02-20",
       "notify" : false
     },
     {
