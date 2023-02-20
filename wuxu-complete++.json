@@ -390,7 +390,7 @@
         {
           "version" : "11.80.0",
           "date" : "2023-02-20",
-          "localizedDescription" : "• Updated Snapchat to v11.80.0",
+          "localizedDescription" : "• Updated Snapchat to last working version with Shadow X (v11.80.0)",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Snapchat.v11.80.0.+.Shadow.X.ipa",
           "size" : 80600000,
           "minOSVersion" : "12.0"
