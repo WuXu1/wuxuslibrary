@@ -146,19 +146,19 @@
       "subtitle" : "A must-have tweak for Instagram users!",
       "versions" : [
         {
-          "version" : "269.0",
-          "date" : "2023-02-11",
-          "localizedDescription" : "• Updated Instagram to v269.0\n• Updated Rocket+ to v3.8.4\n• Plus+ Remains at latest (v2.5.0)",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Instagram.v269.0.+.Rocket+.v3.8.4.+.Plus+.v2.5.0.ipa",
-          "size" : 105000000,
-          "minOSVersion" : "13.4"
-        },
-        {
           "version" : "270.0",
           "date" : "2023-02-26",
           "localizedDescription" : "• Updated Instagram to v270.0\n• Updated Rocket+ to v3.8.5\n• Plus+ Remains at latest (v2.5.0)",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Instagram.v270.0.+.Rocket+.v3.8.5.+.Plus+.v2.5.0.ipa",
           "size" : 116000000,
+          "minOSVersion" : "13.4"
+        },
+        {
+          "version" : "269.0",
+          "date" : "2023-02-11",
+          "localizedDescription" : "• Updated Instagram to v269.0\n• Updated Rocket+ to v3.8.4\n• Plus+ Remains at latest (v2.5.0)",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Instagram.v269.0.+.Rocket+.v3.8.4.+.Plus+.v2.5.0.ipa",
+          "size" : 105000000,
           "minOSVersion" : "13.4"
         }
       ],
