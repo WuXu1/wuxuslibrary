@@ -272,7 +272,7 @@
         {
           "version" : "402.0",
           "date" : "2023-02-26",
-          "localizedDescription" : "• Updated Facebook to v402.0\n• Updated Wolf to v2.1",
+          "localizedDescription" : "• Updated Facebook to v402.0",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Facebook.v402.0.+.Wolf.v2.1.ipa",
           "size" : 127000000,
           "minOSVersion" : "13.4"
