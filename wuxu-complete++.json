@@ -46,6 +46,14 @@
       "subtitle" : "SoundCloud with no ads and extra features.",
       "versions" : [
         {
+          "version" : "6.18.0",
+          "date" : "2023-02-26",
+          "localizedDescription" : "• Updated SoundCloud to v6.18.0\n• DarkCloud remains at latest (v1.4)",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/SoundCloud.v6.18.0.+.DarkCloud.v1.4.ipa",
+          "size" : 74000000,
+          "minOSVersion" : "14.0"
+        },
+        {
           "version" : "6.17.0",
           "date" : "2023-02-14",
           "localizedDescription" : "• Updated SoundCloud to v6.17.0\n• DarkCloud remains at Latest (v1.4)",
@@ -67,14 +75,6 @@
           "localizedDescription" : "• Updated SoundCloud to v6.16.0\n• DarkCloud remains at latest (v1.4)",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary.github.io/releases/download/Old/SoundCloud.v6.16.0.+.DarkCloud.v1.4.ipa",
           "size" : 72900000,
-          "minOSVersion" : "14.0"
-        },
-        {
-          "version" : "6.18.0",
-          "date" : "2023-02-26",
-          "localizedDescription" : "• Updated SoundCloud to v6.18.0\n• DarkCloud remains at latest (v1.4)",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/SoundCloud.v6.18.0.+.DarkCloud.v1.4.ipa",
-          "size" : 74000000,
           "minOSVersion" : "14.0"
         }
       ],
