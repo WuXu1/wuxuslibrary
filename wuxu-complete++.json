@@ -270,6 +270,14 @@
       "subtitle" : "Facebook with a number of new features!",
       "versions" : [
         {
+          "version" : "402.0",
+          "date" : "2023-02-26",
+          "localizedDescription" : "• Updated Facebook to v402.0\n• Updated Wolf to v2.1",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Facebook.v402.0.+.Wolf.v2.1.ipa",
+          "size" : 127000000,
+          "minOSVersion" : "13.4"
+        },
+        {
           "version" : "399.0",
           "date" : "2023-02-11",
           "localizedDescription" : "• Updated Facebook to v399.0\n• Updated Wolf to v2.1",
@@ -278,14 +286,14 @@
           "minOSVersion" : "13.4"
         }
       ],
-      "version" : "399.0",
-      "versionDate" : "2023-02-11",
-      "versionDescription" : "• Updated Facebook to v399.0\n• Updated Wolf to v2.1",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Facebook.v399.0.+.Wolf.v2.1.ipa",
+      "version" : "402.0",
+      "versionDate" : "2023-02-26",
+      "versionDescription" : "• Updated Facebook to v402.0\n• Updated Wolf to v2.1",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Facebook.v402.0.+.Wolf.v2.1.ipa",
       "localizedDescription" : "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n• Disable marking messages as seen\n• Disable typing status in messages\n• No feed ads\n\nStory\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• No story ads\n\nFeed\n• Save Feed videos by long-pressing the video\n\nAnd more!",
       "iconURL" : "https://img.ipa4fun.com/92/c2/a0/284882215-logo.jpg",
       "tintColor" : "#034ea0",
-      "size" : 142000000,
+      "size" : 127000000,
       "minOSVersion" : "13.4",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.jpg",
@@ -531,12 +539,12 @@
     {
       "title" : "Facebook++ Updated!",
       "identifier" : "facebook-updated",
-      "caption" : "Facebook has been updated to the latest version working with the tweak (v399.0), Wolf has been updated to v2.1",
+      "caption" : "Facebook has been updated to the latest version working with the tweak (v402.0), Wolf remains at latest (v2.1)",
       "tintColor" : "#034ea0",
       "imageURL" : "https://malmo.se/images/18.d3f124617dc8953686e20d/1648651425712/FB_ikon2.png",
       "appID" : "com.facebook.Facebook",
-      "date" : "2023-02-12",
-      "notify" : false
+      "date" : "2023-02-26",
+      "notify" : true
     },
     {
       "title" : "Twitter++ Updated",
