@@ -673,7 +673,7 @@
       "identifier" : "duolingo-added",
       "caption" : "Duolingo tweaked with premium features has been added to the source!",
       "tintColor" : "#538c01",
-      "imageURL" : "https://www.reuters.com/resizer/mtS50lZqamL4INu0gKJg3tD7-Ug=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJBZKZO6CBKUXCBY6OCEL5KM7Q.jpg",
+      "imageURL" : "https://blog.duolingo.com/content/images/2022/10/Duolingo-Character-Wordmark.png",
       "appID" : "com.duolingo.DuolingoMobile",
       "date" : "2023-02-27",
       "notify" : true
@@ -683,7 +683,7 @@
       "identifier" : "myfitnesspal-added",
       "caption" : "MyFitnessPal tweaked with premium features has been added to the source!",
       "tintColor" : "#0346a5",
-      "imageURL" : "https://imgur.com/xrzvPez",
+      "imageURL" : "https://i.imgur.com/xrzvPez.png",
       "appID" : "com.myfitnesspal.mfp",
       "date" : "2023-02-27",
       "notify" : true
