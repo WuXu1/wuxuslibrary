@@ -222,6 +222,42 @@
       ]
     },
     {
+      "name" : "Snapchat++",
+      "bundleIdentifier" : "com.toyopagroup.picaboo",
+      "developerName" : "Kanji",
+      "subtitle" : "Snapchat Tweaked with extra features!",
+      "versions" : [
+        {
+          "version" : "11.80.0",
+          "date" : "2023-02-20",
+          "localizedDescription" : "• Updated Snapchat to last working version with Shadow X (v11.80.0)",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Snapchat.v11.80.0.+.Shadow.X.ipa",
+          "size" : 80600000,
+          "minOSVersion" : "12.0"
+        }
+      ],
+      "version" : "11.80.0",
+      "versionDate" : "2023-02-20",
+      "versionDescription" : "• Updated Snapchat to last working version with Shadow X (v11.80.0)",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Snapchat.v11.80.0.+.Shadow.X.ipa",
+      "localizedDescription" : "(Possibility of getting banned. I have not except when I tried to install and use normal SnapChat while I still had the tweak installed)\n\n•Screenshot Supression - Screenshotting will no longer send a notification.\n\n• Keep Snaps In Chat - Delivered and open snaps will temporarily be saved in chat.\n\n• Story Ghost - View stories anonymously.\n\n• Snap Ghost - Snaps and messages will appear unviewed/unopened.\n\n• Spoof Story Views\n\n• Spoof Story Screenshots\n\n• Save To Camera Roll - Tap and hold while viewing a snap to bring up the UI press \"Save Snap\"\n\n• Hide Subtitle - Hide the subtitle containing an MOTD or something from the devs\n\n• Upload From Camera Roll - Press the upload button to select an image and then press the button to take a picture.\n\n• Hide Call Buttons - Hide the call buttons on recent Ul versions.\n\n• Video Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Audio Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Hide New Chat Button - Hide the blue button on the bottom on recent Ul versions.\n\n• Remove Highlights (Not Working) - Remove the stupid TikTok knock-off tab (requires app restart).\n\n• Hide Friendmoji - Hide the \"Friendmojis\" next to people's names (requires pull-refresh).\n\n• Randomize Best Friends - Randomly change the order off the best friends list.\n\n• Keep Normal Title - Enable this to hide the \"Shadow X\" label\n\n• Cool RGB Animation - Makes the shadow header RBG (think chromahomebarx).",
+      "iconURL" : "https://img.ipa4fun.com/5f/b5/79/447188370-logo.jpg",
+      "tintColor" : "#b0b004",
+      "size" : 80600000,
+      "minOSVersion" : "12.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-1.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-2.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-3.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-4.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-5.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-6.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-7.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-8.jpg",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-9.jpg"
+      ]
+    },
+    {
       "name" : "YouTube++",
       "bundleIdentifier" : "com.google.ios.youtube",
       "developerName" : "qnblackcat",
@@ -430,39 +466,38 @@
       ]
     },
     {
-      "name" : "Snapchat++",
-      "bundleIdentifier" : "com.toyopagroup.picaboo",
-      "developerName" : "Kanji",
-      "subtitle" : "Snapchat Tweaked with extra features!",
+      "name" : "Duolingo++",
+      "bundleIdentifier" : "com.duolingo.DuolingoMobile",
+      "developerName" : "Laxus",
+      "subtitle" : "Duolingo with Premium Activated!",
       "versions" : [
         {
-          "version" : "11.80.0",
-          "date" : "2023-02-20",
-          "localizedDescription" : "• Updated Snapchat to last working version with Shadow X (v11.80.0)",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Snapchat.v11.80.0.+.Shadow.X.ipa",
-          "size" : 80600000,
-          "minOSVersion" : "12.0"
+          "version" : "6.196.0",
+          "date" : "2023-02-27",
+          "localizedDescription" : "• Updated Duolingo to v6.196.0",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Duolingo+.v6.196.0.ipa",
+          "size" : 112000000,
+          "minOSVersion" : "14.0"
         }
       ],
-      "version" : "11.80.0",
-      "versionDate" : "2023-02-20",
-      "versionDescription" : "• Updated Snapchat to last working version with Shadow X (v11.80.0)",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Snapchat.v11.80.0.+.Shadow.X.ipa",
-      "localizedDescription" : "(Possibility of getting banned. I have not except when I tried to install and use normal SnapChat while I still had the tweak installed)\n\n•Screenshot Supression - Screenshotting will no longer send a notification.\n\n• Keep Snaps In Chat - Delivered and open snaps will temporarily be saved in chat.\n\n• Story Ghost - View stories anonymously.\n\n• Snap Ghost - Snaps and messages will appear unviewed/unopened.\n\n• Spoof Story Views\n\n• Spoof Story Screenshots\n\n• Save To Camera Roll - Tap and hold while viewing a snap to bring up the UI press \"Save Snap\"\n\n• Hide Subtitle - Hide the subtitle containing an MOTD or something from the devs\n\n• Upload From Camera Roll - Press the upload button to select an image and then press the button to take a picture.\n\n• Hide Call Buttons - Hide the call buttons on recent Ul versions.\n\n• Video Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Audio Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Hide New Chat Button - Hide the blue button on the bottom on recent Ul versions.\n\n• Remove Highlights (Not Working) - Remove the stupid TikTok knock-off tab (requires app restart).\n\n• Hide Friendmoji - Hide the \"Friendmojis\" next to people's names (requires pull-refresh).\n\n• Randomize Best Friends - Randomly change the order off the best friends list.\n\n• Keep Normal Title - Enable this to hide the \"Shadow X\" label\n\n• Cool RGB Animation - Makes the shadow header RBG (think chromahomebarx).",
-      "iconURL" : "https://img.ipa4fun.com/5f/b5/79/447188370-logo.jpg",
-      "tintColor" : "#b0b004",
-      "size" : 80600000,
-      "minOSVersion" : "12.0",
+      "version" : "6.196.0",
+      "versionDate" : "2023-02-27",
+      "versionDescription" : "• Updated Duolingo to v6.196.0",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Duolingo+.v6.196.0.ipa",
+      "localizedDescription" : "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.\n\nWhether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.\n\nWhy Duolingo?\n• Duolingo is fun and effective. Game-like lessons and fun characters help you build solid speaking, reading, listening, and writing skills.\n\n• Duolingo works. Designed by language experts, Duolingo has a science-based teaching methodology proven to foster long-term language retention.\n\n• Track your progress. Work toward your language learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n• Every language course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian!",
+      "iconURL" : "https://img.ipa4fun.com/fc/cd/40/570060128-logo.jpg",
+      "tintColor" : "#538c01",
+      "size" : 112000000,
+      "minOSVersion" : "14.0",
       "screenshotURLs" : [
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-1.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-2.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-3.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-4.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-5.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-6.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-7.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-8.jpg",
-        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-9.jpg"
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-1.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-2.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-3.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-4.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-5.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-6.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-7.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-8.jpg"
       ]
     }
   ],
@@ -594,6 +629,16 @@
       "imageURL" : "https://cdn.searchenginejournal.com/wp-content/uploads/2022/08/f3ceb716-d3c4-4c60-aeac-ceb2ef100066-62fbcf37e398e-sej-768x512.jpeg",
       "appID" : "com.toyopagroup.picaboo",
       "date" : "2023-02-20",
+      "notify" : true
+    },
+    {
+      "title" : "Duolingo++ Added!",
+      "identifier" : "duolingo-added",
+      "caption" : "Duolingo tweaked with premium features has been added to the source!",
+      "tintColor" : "#538c01",
+      "imageURL" : "https://www.reuters.com/resizer/mtS50lZqamL4INu0gKJg3tD7-Ug=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJBZKZO6CBKUXCBY6OCEL5KM7Q.jpg",
+      "appID" : "com.duolingo.DuolingoMobile",
+      "date" : "2023-02-27",
       "notify" : true
     }
   ]
