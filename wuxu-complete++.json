@@ -373,6 +373,110 @@
       ]
     },
     {
+      "name" : "MyFitnessPal++",
+      "bundleIdentifier" : "com.myfitnesspal.mfp",
+      "developerName" : "Strejda603",
+      "subtitle" : "MyFitnessPal With Premium Activated.",
+      "versions" : [
+        {
+          "version" : "22.11.0",
+          "date" : "2023-02-27",
+          "localizedDescription" : "• Updated MyFitnessPal to v22.11.0 - Last working version with tweak",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/MyFitnessPal+.v22.11.0.ipa",
+          "size" : 60400000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "22.11.0",
+      "versionDate" : "2023-02-27",
+      "versionDescription" : "• Updated MyFitnessPal to v22.11.0 - Last working version with tweak",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/MyFitnessPal+.v22.11.0.ipa",
+      "localizedDescription" : "Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn’t another restrictive diet app. This is a health app to help you learn about your habits … see how you eat … make smarter food choices … find motivation & support ... and conquer your health goals.",
+      "iconURL" : "https://img.ipa4fun.com/33/7a/25/341232718-logo.jpg",
+      "tintColor" : "#0346a5",
+      "size" : 60400000,
+      "minOSVersion" : "14.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-1.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-2.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-3.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-4.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-5.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-6.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-7.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-8.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-9.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-10.jpg"
+      ]
+    },
+    {
+      "name" : "Duolingo++",
+      "bundleIdentifier" : "com.duolingo.DuolingoMobile",
+      "developerName" : "Laxus",
+      "subtitle" : "Duolingo with Premium Activated!",
+      "versions" : [
+        {
+          "version" : "6.196.0",
+          "date" : "2023-02-27",
+          "localizedDescription" : "• Updated Duolingo to v6.196.0",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Duolingo+.v6.196.0.ipa",
+          "size" : 112000000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "6.196.0",
+      "versionDate" : "2023-02-27",
+      "versionDescription" : "• Updated Duolingo to v6.196.0",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Duolingo+.v6.196.0.ipa",
+      "localizedDescription" : "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.\n\nWhether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.\n\nWhy Duolingo?\n• Duolingo is fun and effective. Game-like lessons and fun characters help you build solid speaking, reading, listening, and writing skills.\n\n• Duolingo works. Designed by language experts, Duolingo has a science-based teaching methodology proven to foster long-term language retention.\n\n• Track your progress. Work toward your language learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n• Every language course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian!",
+      "iconURL" : "https://img.ipa4fun.com/fc/cd/40/570060128-logo.jpg",
+      "tintColor" : "#538c01",
+      "size" : 112000000,
+      "minOSVersion" : "14.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-1.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-2.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-3.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-4.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-5.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-6.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-7.jpg",
+        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-8.jpg"
+      ]
+    },
+    {
+      "name" : "Photomath++",
+      "bundleIdentifier" : "com.microblink.PhotoMath",
+      "developerName" : "Strejda603",
+      "subtitle" : "Photomath with plus activated!",
+      "versions" : [
+        {
+          "version" : "8.19.1",
+          "date" : "2023-02-16",
+          "localizedDescription" : "• Updated Photomath to v8.19.1",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
+          "size" : 12900000,
+          "minOSVersion" : "13.0"
+        }
+      ],
+      "version" : "8.19.1",
+      "versionDate" : "2023-02-16",
+      "versionDescription" : "• Updated Photomath to v8.19.1",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
+      "localizedDescription" : "Photomath works as normal, only the premium features are activated as if you bought them.",
+      "iconURL" : "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
+      "tintColor" : "#830824",
+      "size" : 12900000,
+      "minOSVersion" : "13.0",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-2.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-3.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.jpg",
+        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.jpg"
+      ]
+    },
+    {
       "name" : "Anime Now!",
       "bundleIdentifier" : "com.errorerrorerror.animenow",
       "developerName" : "AnimeNow Team",
@@ -431,73 +535,6 @@
         "https://static.appdb.to/images/cydia-1900000660-iphone-0.png",
         "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
         "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
-      ]
-    },
-    {
-      "name" : "Photomath++",
-      "bundleIdentifier" : "com.microblink.PhotoMath",
-      "developerName" : "Strejda603",
-      "subtitle" : "Photomath with plus activated!",
-      "versions" : [
-        {
-          "version" : "8.19.1",
-          "date" : "2023-02-16",
-          "localizedDescription" : "• Updated Photomath to v8.19.1",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
-          "size" : 12900000,
-          "minOSVersion" : "13.0"
-        }
-      ],
-      "version" : "8.19.1",
-      "versionDate" : "2023-02-16",
-      "versionDescription" : "• Updated Photomath to v8.19.1",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
-      "localizedDescription" : "Photomath works as normal, only the premium features are activated as if you bought them.",
-      "iconURL" : "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
-      "tintColor" : "#830824",
-      "size" : 12900000,
-      "minOSVersion" : "13.0",
-      "screenshotURLs" : [
-        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.jpg",
-        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-2.jpg",
-        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-3.jpg",
-        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.jpg",
-        "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.jpg"
-      ]
-    },
-    {
-      "name" : "Duolingo++",
-      "bundleIdentifier" : "com.duolingo.DuolingoMobile",
-      "developerName" : "Laxus",
-      "subtitle" : "Duolingo with Premium Activated!",
-      "versions" : [
-        {
-          "version" : "6.196.0",
-          "date" : "2023-02-27",
-          "localizedDescription" : "• Updated Duolingo to v6.196.0",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Duolingo+.v6.196.0.ipa",
-          "size" : 112000000,
-          "minOSVersion" : "14.0"
-        }
-      ],
-      "version" : "6.196.0",
-      "versionDate" : "2023-02-27",
-      "versionDescription" : "• Updated Duolingo to v6.196.0",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Duolingo+.v6.196.0.ipa",
-      "localizedDescription" : "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.\n\nWhether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.\n\nWhy Duolingo?\n• Duolingo is fun and effective. Game-like lessons and fun characters help you build solid speaking, reading, listening, and writing skills.\n\n• Duolingo works. Designed by language experts, Duolingo has a science-based teaching methodology proven to foster long-term language retention.\n\n• Track your progress. Work toward your language learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n• Every language course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian!",
-      "iconURL" : "https://img.ipa4fun.com/fc/cd/40/570060128-logo.jpg",
-      "tintColor" : "#538c01",
-      "size" : 112000000,
-      "minOSVersion" : "14.0",
-      "screenshotURLs" : [
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-1.jpg",
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-2.jpg",
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-3.jpg",
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-4.jpg",
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-5.jpg",
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-6.jpg",
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-7.jpg",
-        "https://img.ipa4fun.com/fc/cd/40/570060128-screenshot-8.jpg"
       ]
     }
   ],
@@ -638,6 +675,16 @@
       "tintColor" : "#538c01",
       "imageURL" : "https://www.reuters.com/resizer/mtS50lZqamL4INu0gKJg3tD7-Ug=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJBZKZO6CBKUXCBY6OCEL5KM7Q.jpg",
       "appID" : "com.duolingo.DuolingoMobile",
+      "date" : "2023-02-27",
+      "notify" : true
+    },
+    {
+      "title" : "MyFitnessPal++ Added!",
+      "identifier" : "myfitnesspal-added",
+      "caption" : "MyFitnessPal tweaked with premium features has been added to the source!",
+      "tintColor" : "#0346a5",
+      "imageURL" : "https://imgur.com/xrzvPez",
+      "appID" : "com.myfitnesspal.mfp",
       "date" : "2023-02-27",
       "notify" : true
     }
