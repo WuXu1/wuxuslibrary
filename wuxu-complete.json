@@ -42,7 +42,7 @@
         {
           "version" : "4.7.8",
           "date" : "2023-03-10",
-          "localizedDescription" : "• ESign updated to v4.7.8\n• Support backup and restore application data (iOS15-15.7.1 and 16.0-16.1.2)\n• Fix bugs",
+          "localizedDescription" : "• ESign updated to v4.7.8\n• Support Remove mobileprovision after signing\n• Support clear app data (iOS15-15.7.1 and 16.0-16.1.2)\n• Fixed bugs",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.8.ipa",
           "size" : 8830000,
           "minOSVersion" : "11.0"
@@ -74,7 +74,7 @@
       ],
       "version" : "4.7.8",
       "versionDate" : "2023-03-10",
-      "versionDescription" : "• ESign updated to v4.7.8\n• Support backup and restore application data (iOS15-15.7.1 and 16.0-16.1.2)\n• Fix bugs",
+      "versionDescription" : "• ESign updated to v4.7.8\n• Support Remove mobileprovision after signing\n• Support clear app data (iOS15-15.7.1 and 16.0-16.1.2)\n• Fixed bugs",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.8.ipa",
       "localizedDescription" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
