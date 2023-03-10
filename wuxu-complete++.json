@@ -47,7 +47,7 @@
       "versions" : [
         {
           "version" : "6.19.1",
-          "date" : "2022-03-10",
+          "date" : "2023-03-10",
           "localizedDescription" : "• Updated SoundCloud to v6.19.1\n• DarkCloud remains at latest (v1.4)",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/SoundCloud.v6.19.1.+.DarkCloud.v1.4.ipa",
           "size" : 61900000,
