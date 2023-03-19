@@ -25,7 +25,7 @@
           "minOSVersion" : "12.0"
         }
       ],
-      "version" : "8.6.42",
+      "version" : "8.6.42_0.1",
       "versionDate" : "2023-03-19",
       "versionDescription" : "• Added SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n• Added SpotifyHighQuality - Enables ’Very High’ Quality\n• Added SpotifyEqualizerEnhancer - Save custom presets for Spotify equalizer\n• Added SpotifyAllowSettings - Enable all settings that are normally disabled when using PC",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.Tweaked.v8.6.42.ipa",
