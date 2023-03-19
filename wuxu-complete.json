@@ -70,16 +70,24 @@
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.5.ipa",
           "size" : 8200000,
           "minOSVersion" : "11.0"
+        },
+        {
+          "version" : "4.8.1",
+          "date" : "2023-03-19",
+          "localizedDescription" : "• ESign updated to v4.8.1\n• The list of installed applications supports filtering",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.8.1.ipa",
+          "size" : 8750000,
+          "minOSVersion" : "11.0"
         }
       ],
-      "version" : "4.7.8",
-      "versionDate" : "2023-03-10",
-      "versionDescription" : "• ESign updated to v4.7.8\n• Support Remove mobileprovision after signing\n• Support clear app data (iOS15-15.7.1 and 16.0-16.1.2)\n• Fixed bugs",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.7.8.ipa",
+      "version" : "4.8.1",
+      "versionDate" : "2023-03-19",
+      "versionDescription" : "• ESign updated to v4.8.1\n• The list of installed applications supports filtering",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ESign.v4.8.1.ipa",
       "localizedDescription" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
       "tintColor" : "#356ead",
-      "size" : 8830000,
+      "size" : 8750000,
       "minOSVersion" : "11.0",
       "screenshotURLs" : [
         "https://static.appdb.to/images/cydia-1900000897-iphone-0-1670149926.png",
@@ -180,11 +188,11 @@
     {
       "title" : "ESign Updated!",
       "identifier" : "esign-updated",
-      "caption" : "ESign has been updated to v4.7.8 click here for more info.",
+      "caption" : "ESign has been updated to the latest version, click here for more info.",
       "tintColor" : "#356ead",
       "imageURL" : "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
       "appID" : "p3.xyz.yyyue.esign",
-      "date" : "2023-03-10",
+      "date" : "2023-03-19",
       "notify" : true
     },
     {
