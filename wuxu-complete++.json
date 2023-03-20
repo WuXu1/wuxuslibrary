@@ -11,7 +11,7 @@
         {
           "version" : "8.6.42-0.1",
           "date" : "2023-03-19",
-          "localizedDescription" : "• Added SpotifyNoPodcasts\n• Added SpotifyHighQuality\n• Added SpotifyEqualizerEnhancer",
+          "localizedDescription" : "• Added SpotifyNoPodcasts\n• Added SpotifyHighQuality",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
           "size" : 47000000,
           "minOSVersion" : "12.0"
