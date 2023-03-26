@@ -170,6 +170,14 @@
       "subtitle" : "A must-have tweak for Instagram users!",
       "versions" : [
         {
+          "version" : "273.0",
+          "date" : "2023-03-26",
+          "localizedDescription" : "• Updated Instagram to v273.0\n• Updated Rocket+ to v3.8.6",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Instagram.v273.0.+.Rocket+.v3.8.6.+.Plus+.v2.5.0.ipa",
+          "size" : 105000000,
+          "minOSVersion" : "13.4"
+        },
+        {
           "version" : "270.0",
           "date" : "2023-02-26",
           "localizedDescription" : "• Updated Instagram to v270.0\n• Updated Rocket+ to v3.8.5\n• Plus+ Remains at latest (v2.5.0)",
@@ -186,14 +194,14 @@
           "minOSVersion" : "13.4"
         }
       ],
-      "version" : "270.0",
-      "versionDate" : "2023-02-26",
-      "versionDescription" : "• Updated Instagram to v270.0\n• Updated Rocket+ to v3.8.5\n• Plus+ Remains at latest (v2.5.0)",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Instagram.v270.0.+.Rocket+.v3.8.5.+.Plus+.v2.5.0.ipa",
+      "version" : "273.0",
+      "versionDate" : "2023-03-26",
+      "versionDescription" : "• Updated Instagram to v273.0\n• Updated Rocket+ to v3.8.6",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Instagram.v273.0.+.Rocket+.v3.8.6.+.Plus+.v2.5.0.ipa",
       "localizedDescription" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
       "iconURL" : "https://img.ipa4fun.com/ab/4f/56/389801252-logo.jpg",
       "tintColor" : "#930a5b",
-      "size" : 116000000,
+      "size" : 105000000,
       "minOSVersion" : "13.4",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-1.jpg",
@@ -585,7 +593,7 @@
     {
       "title" : "SoundCloud++ Updated!",
       "identifier" : "soundcloud-updated",
-      "caption" : "SoundCloud++ has been updated to the latest version, Click here for more info",
+      "caption" : "SoundCloud++ has been updated to the latest version, click here for more info",
       "tintColor" : "#db5b14",
       "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
       "appID" : "com.soundcloud.TouchApp",
@@ -595,11 +603,11 @@
     {
       "title" : "Instagram++ Updated!",
       "identifier" : "instagram-updated",
-      "caption" : "Instagram has been updated to v270.0, along with Rocket (Cracked), updated to v3.8.5",
+      "caption" : "Instagram++ has been updated to the latest version, click here for more info",
       "tintColor" : "#930a5b",
       "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2022/05/Instagram-logo-1200x900.jpg",
       "appID" : "com.burbn.instagram",
-      "date" : "2023-02-26",
+      "date" : "2023-03-26",
       "notify" : true
     },
     {
