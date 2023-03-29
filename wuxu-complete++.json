@@ -515,6 +515,14 @@
       "subtitle" : "Photomath with plus activated!",
       "versions" : [
         {
+          "version" : "8.21.0",
+          "date" : "2023-03-29",
+          "localizedDescription" : "• Updated Photomath to v8.21.0",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath.Cracked.v8.21.0.ipa",
+          "size" : 13700000,
+          "minOSVersion" : "13.0"
+        },
+        {
           "version" : "8.19.1",
           "date" : "2023-02-16",
           "localizedDescription" : "• Updated Photomath to v8.19.1",
@@ -523,14 +531,14 @@
           "minOSVersion" : "13.0"
         }
       ],
-      "version" : "8.19.1",
-      "versionDate" : "2023-02-16",
-      "versionDescription" : "• Updated Photomath to v8.19.1",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
+      "version" : "8.21.0",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• Updated Photomath to v8.21.0",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath.Cracked.v8.21.0.ipa",
       "localizedDescription" : "Photomath works as normal, only the premium features are activated as if you bought them.",
       "iconURL" : "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
       "tintColor" : "#830824",
-      "size" : 12900000,
+      "size" : 13700000,
       "minOSVersion" : "13.0",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.jpg",
@@ -721,14 +729,14 @@
       "notify" : false
     },
     {
-      "title" : "Photomath++ Added!",
-      "identifier" : "photomath-added",
-      "caption" : "Photomath - with premium features activated - has been added to the library!",
+      "title" : "Photomath++ Updated!",
+      "identifier" : "photomath-updated",
+      "caption" : "Photomath has been updated to the latest version, click here for more info",
       "tintColor" : "#830824",
       "imageURL" : "https://i.imgur.com/cCOfaqO.png",
       "appID" : "com.microblink.PhotoMath",
-      "date" : "2023-02-16",
-      "notify" : false
+      "date" : "2023-03-29",
+      "notify" : true
     },
     {
       "title" : "Snapchat++ Added!",
