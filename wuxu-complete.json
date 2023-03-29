@@ -190,10 +190,14 @@
       "minOSVersion_0" : "14.0.0",
       "maxOSVersion_0" : "16.1.2",
       "screenshotURLs" : [
-        "https://static.appdb.to/images/cydia-1900001074-iphone-0-1674894639.png",
-        "https://static.appdb.to/images/cydia-1900001074-iphone-1-1674894639.png",
-        "https://static.appdb.to/images/cydia-1900001074-iphone-2-1674894639.png",
-        "https://static.appdb.to/images/cydia-1900001074-iphone-3-1674894639.png"
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Home.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Tools.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/SpringboardTools.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Audio_Changer.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Passcode_Editor.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/LS_Footnote.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Misc.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Extra_Tools.PNG"
       ]
     }
   ],
