@@ -218,6 +218,14 @@
       "subtitle" : "TikTok with added features.",
       "versions" : [
         {
+          "version" : "28.4.1",
+          "date" : "2023-03-29",
+          "localizedDescription" : "• Updated TikTok to v28.4.1\n• Updated LRD+ to v2.5\n\nOnce settings have been applied app will freeze close and relaunch app for settings to successfully apply",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v28.2.0.+.LRD+.ipa",
+          "size" : 202000000,
+          "minOSVersion" : "10.0"
+        },
+        {
           "version" : "28.2.0",
           "date" : "2023-02-26",
           "localizedDescription" : "• Updated TikTok to v28.2.0",
@@ -234,14 +242,14 @@
           "minOSVersion" : "10.0"
         }
       ],
-      "version" : "28.2.0",
-      "versionDate" : "2023-02-26",
-      "versionDescription" : "• Updated TikTok to v28.2.0",
+      "version" : "28.4.1",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• Updated TikTok to v28.4.1\n• Updated LRD+ to v2.5\n\nOnce settings have been applied app will freeze close and relaunch app for settings to successfully apply",
       "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v28.2.0.+.LRD+.ipa",
       "localizedDescription" : "TikTokLRD (Cracked) - Add features to the TikTok App:\n\n• Save video without watermark\n• Share or save the video\n• Hide the user interface\n• Play the next video automatically\n• Skip watching live while watching automatically\n• Show progress bar for video\n• Enable high-quality video upload\n• Save a profile picture\n• Show the number of videos\n• Create favorite groups\n• Increase the number of letters in the comment to 240\n• Show the country code for the video\n• Enable copying for description and account\n• Enable comments transparency\n• Hide you just saw\n• Read closed comments\n• Watching videos under review\n• Show creation video date\n• Hide ADS\n• Change country\n• Confirm | cancel the like\n• Confirm | cancel the like in the comments\n• Confirm | cancel the follow\n• Lock the app",
       "iconURL" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.jpg",
       "tintColor" : "#363636",
-      "size" : 156000000,
+      "size" : 202000000,
       "minOSVersion" : "10.0",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-1.jpg",
@@ -296,6 +304,14 @@
       "subtitle" : "All-In-One Tweak for YouTube.",
       "versions" : [
         {
+          "version" : "18.08.1",
+          "date" : "2023-03-29",
+          "localizedDescription" : "• YouTube updated to v18.08.1\n• Now you can sign-in to YouTube like normal 🎉\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
+          "size" : 106000000,
+          "minOSVersion" : "14.0"
+        },
+        {
           "version" : "18.07.5",
           "date" : "2023-02-26",
           "localizedDescription" : "• YouTube updated to v18.07.5\n• uYou+ updated to v2.3.1",
@@ -312,10 +328,10 @@
           "minOSVersion" : "14.0"
         }
       ],
-      "version" : "18.07.5",
-      "versionDate" : "2023-02-26",
-      "versionDescription" : "• YouTube updated to v18.07.5\n• uYou+ updated to v2.3.1",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.07.5.+.uYou+.v2.3.1.ipa",
+      "version" : "18.08.1",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• YouTube updated to v18.08.1\n• Now you can sign-in to YouTube like normal 🎉\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
       "localizedDescription" : "If you’re a YouTube app user then you’ll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.jpg",
       "tintColor" : "#af0303",
@@ -338,6 +354,14 @@
       "subtitle" : "Facebook with a number of new features!",
       "versions" : [
         {
+          "version" : "404.0",
+          "date" : "2023-03-29",
+          "localizedDescription" : "• Updated Facebook to v404.0",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Facebook.v404.0.+.Wolf.v2.1.ipa",
+          "size" : 133000000,
+          "minOSVersion" : "13.4"
+        },
+        {
           "version" : "402.0",
           "date" : "2023-02-26",
           "localizedDescription" : "• Updated Facebook to v402.0",
@@ -354,14 +378,14 @@
           "minOSVersion" : "13.4"
         }
       ],
-      "version" : "402.0",
-      "versionDate" : "2023-02-26",
-      "versionDescription" : "• Updated Facebook to v402.0\n• Updated Wolf to v2.1",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Facebook.v402.0.+.Wolf.v2.1.ipa",
+      "version" : "404.0",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• Updated Facebook to v404.0",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Facebook.v404.0.+.Wolf.v2.1.ipa",
       "localizedDescription" : "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n• Disable marking messages as seen\n• Disable typing status in messages\n• No feed ads\n\nStory\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• No story ads\n\nFeed\n• Save Feed videos by long-pressing the video\n\nAnd more!",
       "iconURL" : "https://img.ipa4fun.com/92/c2/a0/284882215-logo.jpg",
       "tintColor" : "#034ea0",
-      "size" : 127000000,
+      "size" : 133000000,
       "minOSVersion" : "13.4",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.jpg",
@@ -411,6 +435,14 @@
       "subtitle" : "MyFitnessPal With Premium Activated.",
       "versions" : [
         {
+          "version" : "23.5.5",
+          "date" : "2023-03-29",
+          "localizedDescription" : "• Updated MyFitnessPal to v23.5.5\n• Fixed Logging out after closing app",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/MyFitnessPal.Cracked.v23.5.5.ipa",
+          "size" : 50000000,
+          "minOSVersion" : "14.0"
+        },
+        {
           "version" : "22.11.0",
           "date" : "2023-02-27",
           "localizedDescription" : "• Updated MyFitnessPal to v22.11.0 - Last working version with tweak",
@@ -419,14 +451,14 @@
           "minOSVersion" : "14.0"
         }
       ],
-      "version" : "22.11.0",
-      "versionDate" : "2023-02-27",
-      "versionDescription" : "• Updated MyFitnessPal to v22.11.0 - Last working version with tweak",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/MyFitnessPal+.v22.11.0.ipa",
-      "localizedDescription" : "Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn’t another restrictive diet app. This is a health app to help you learn about your habits … see how you eat … make smarter food choices … find motivation & support ... and conquer your health goals.",
+      "version" : "23.5.5",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• Updated MyFitnessPal to v23.5.5\n• Fixed Logging out after closing app",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/MyFitnessPal.Cracked.v23.5.5.ipa",
+      "localizedDescription" : "• Premium Features Enabled\n\nTrack progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn’t another restrictive diet app. This is a health app to help you learn about your habits … see how you eat … make smarter food choices … find motivation & support ... and conquer your health goals.",
       "iconURL" : "https://img.ipa4fun.com/33/7a/25/341232718-logo.jpg",
       "tintColor" : "#0346a5",
-      "size" : 60400000,
+      "size" : 50000000,
       "minOSVersion" : "14.0",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-1.jpg",
@@ -515,7 +547,15 @@
       "subtitle" : "Watch your favorite Anime anywhere for free!",
       "versions" : [
         {
-          "version" : "1.0.0-beta.1",
+          "version" : "1.0.0-b3",
+          "date" : "2023-03-29",
+          "localizedDescription" : "• Updated Anime Now to v1.0.0-b3",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b3.ipa",
+          "size" : 6870000,
+          "minOSVersion" : "14.0"
+        },
+        {
+          "version" : "1.0.0-b1",
           "date" : "2023-02-14",
           "localizedDescription" : "• Updated Anime Now to v1.0.0-beta.1",
           "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
@@ -523,14 +563,14 @@
           "minOSVersion" : "14.0"
         }
       ],
-      "version" : "1.0.0-beta.1",
-      "versionDate" : "2023-02-14",
-      "versionDescription" : "• Updated Anime Now to v1.0.0-beta.1",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
+      "version" : "1.0.0-b3",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• Updated Anime Now to v1.0.0-b3",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b3.ipa",
       "localizedDescription" : "Features:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
       "iconURL" : "https://static.appdb.to/images/cydia-1900001008-icon-1669968478.png",
       "tintColor" : "#343334",
-      "size" : 6380000,
+      "size" : 6870000,
       "minOSVersion" : "14.0",
       "screenshotURLs" : [
         "https://static.appdb.to/images/cydia-1900001008-iphone-0-1669964060.png",
@@ -613,21 +653,21 @@
     {
       "title" : "TikTok++ Updated!",
       "identifier" : "tiktok-updated",
-      "caption" : "TikTok has been updated to the latest version (v28.2.0)",
+      "caption" : "TikTok has been updated to the latest version, click here for more info",
       "tintColor" : "#363636",
       "imageURL" : "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/02/how-to-delete-tiktok-1220x683.jpg",
       "appID" : "com.zhiliaoapp.musically",
-      "date" : "2023-02-12",
+      "date" : "2023-03-29",
       "notify" : true
     },
     {
-      "title" : "YouTube++ Updated!",
+      "title" : "YouTube++ Updated! - Signing in fixed!",
       "identifier" : "youtube-updated",
-      "caption" : "YouTube has been updated to v18.07.5 along with uYou+, now v2.3.1",
+      "caption" : "YouTube has been updated to the latest version, you can now sign into youtube as normal - click here for more info",
       "tintColor" : "#af0303",
       "imageURL" : "https://i.kym-cdn.com/entries/icons/original/000/004/562/youtube-logo-1920-800x4501.jpg",
       "appID" : "com.google.ios.youtube",
-      "date" : "2023-02-26",
+      "date" : "2023-02-29",
       "notify" : true
     },
     {
@@ -643,11 +683,11 @@
     {
       "title" : "Facebook++ Updated!",
       "identifier" : "facebook-updated",
-      "caption" : "Facebook has been updated to the latest version working with the tweak (v402.0), Wolf remains at latest (v2.1)",
+      "caption" : "Facebook has been updated to the latest version, click here for more info",
       "tintColor" : "#034ea0",
       "imageURL" : "https://malmo.se/images/18.d3f124617dc8953686e20d/1648651425712/FB_ikon2.png",
       "appID" : "com.facebook.Facebook",
-      "date" : "2023-02-26",
+      "date" : "2023-03-29",
       "notify" : true
     },
     {
@@ -661,14 +701,14 @@
       "notify" : false
     },
     {
-      "title" : "Anime Now! Added!",
-      "identifier" : "animenow-added",
-      "caption" : "Anime Now has been added to the library - a free Anime streaming app",
+      "title" : "Anime Now! Updated!",
+      "identifier" : "animenow-updated",
+      "caption" : "Anime Now! has been updated to the latest version, click here for more info",
       "tintColor" : "#343334",
       "imageURL" : "https://hi.letsdiskuss.com/assets/upl_files/488d7c8980.jpg",
       "appID" : "com.errorerrorerror.animenow",
-      "date" : "2023-02-14",
-      "notify" : false
+      "date" : "2023-03-29",
+      "notify" : true
     },
     {
       "title" : "ZiniTevi++ Added!",
@@ -711,13 +751,13 @@
       "notify" : true
     },
     {
-      "title" : "MyFitnessPal++ Added!",
-      "identifier" : "myfitnesspal-added",
-      "caption" : "MyFitnessPal tweaked with premium features has been added to the source!",
+      "title" : "MyFitnessPal++ Updated! - Logging out fixed!",
+      "identifier" : "myfitnesspal-updated",
+      "caption" : "MyFitnessPal has been updated to the latest version, logging out after closing app has been fixed - click here for more info",
       "tintColor" : "#0346a5",
       "imageURL" : "https://i.imgur.com/xrzvPez.png",
       "appID" : "com.myfitnesspal.mfp",
-      "date" : "2023-02-27",
+      "date" : "2023-03-29",
       "notify" : true
     },
     {
