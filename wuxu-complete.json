@@ -162,6 +162,39 @@
       "screenshotURLs" : [
         "https://tools4hack.santalab.me/media/uploads/2023/02/release-wdbremovethreeapplimit-for-macdirtycow-remove-1appleid-3apps-limit-sideload-install-6-709x1536.jpg"
       ]
+    },
+    {
+      "name" : "Cowabunga",
+      "bundleIdentifier" : "com.leemin.DockHider",
+      "developerName" : "Leminlimez",
+      "subtitle" : "The MacDirtyCow Toolbox for iOS 14 – iOS 16",
+      "versions" : [
+        {
+          "version" : "10.1.0",
+          "date" : "2023-03-29",
+          "localizedDescription" : "• You can now choose to enable v8 and/or v10 theming\n• Padding for file path replacing operations\n• Added back keyboard buttons audio\n• More safety with icon theming: first attempts to revert corrupted files before aborting\n• Improved error messages\n• Fixed springboard tools view sizing on ipads\n• Fixed springboard tools on RTL languages\n• Updated backend repo for explore page",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Cowabunga.v10.1.0.ipa",
+          "size" : 20600000,
+          "minOSVersion" : "14.0.0",
+          "maxOSVersion_0" : "16.1.2"
+        }
+      ],
+      "version" : "10.1.0",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• You can now choose to enable v8 and/or v10 theming\n• Padding for file path replacing operations\n• Added back keyboard buttons audio\n• More safety with icon theming: first attempts to revert corrupted files before aborting\n• Improved error messages\n• Fixed springboard tools view sizing on ipads\n• Fixed springboard tools on RTL languages\n• Updated backend repo for explore page",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Cowabunga.v10.1.0.ipa",
+      "localizedDescription" : "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689\n\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\n\nWarning: Some changes are permanent on iOS 14.0-14.8.1\n\nFeatures\n- Running in the background to keep some changes from reverting\n    - From running tests, battery loss is negligible (~1% per day on frequent), but that may very\n\n- Springboard\n    - Hide dock\n    - Hide home bar\n    - Hide folder backgrounds\n    - Disable folder background blur\n    - Disable app switcher blur\n\n- Audio\n    - Custom sound effects\n    - Upload your own sounds (nearly every audio format allowed!)\n\n- Passcode\n    - Customize passcode keys\n    - Import passcode keys files (.passthm) from TrollTools\n\n- Misc\n    - Custom carrier name\n    Warning: Use the features below at your own risk!\n    - Change system version (shows in settings, iOS 15+)\n    - Enable iPhone X Gestures\n    - Enable Dynamic Island (iOS 16+)\n\n- Extra Tools\n    - Lock Screen Footnote\n    - Supervise Device\n    - Device Organization Name\n    - No Lock On Respring\n    - Numeric Wi-Fi/Cellular Strength",
+      "iconURL" : "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "tintColor" : "#0d6425",
+      "size" : 20600000,
+      "minOSVersion_0" : "14.0.0",
+      "maxOSVersion_0" : "16.1.2",
+      "screenshotURLs" : [
+        "https://static.appdb.to/images/cydia-1900001074-iphone-0-1674894639.png",
+        "https://static.appdb.to/images/cydia-1900001074-iphone-1-1674894639.png",
+        "https://static.appdb.to/images/cydia-1900001074-iphone-2-1674894639.png",
+        "https://static.appdb.to/images/cydia-1900001074-iphone-3-1674894639.png"
+      ]
     }
   ],
   "news" : [
@@ -221,6 +254,16 @@
       "imageURL" : "https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg",
       "appID" : "com.worthdoingbadly.WDBRemoveThreeAppLimit",
       "date" : "2023-02-16",
+      "notify" : true
+    },
+    {
+      "title" : "Cowabunga Added!",
+      "identifier" : "cowabunga-added",
+      "caption" : "Cowabunga has been added to the library! A jailed toolbox for IOS 14-16.1.2",
+      "tintColor" : "#0d6425",
+      "imageURL" : "https://i.imgur.com/4IT5NhG.png",
+      "appID" : "com.leemin.DockHider",
+      "date" : "2023-03-29",
       "notify" : true
     }
   ]
