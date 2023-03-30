@@ -673,6 +673,39 @@
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.jpg",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.jpg"
       ]
+    },
+    {
+      "name" : "Twitch++",
+      "bundleIdentifier" : "tv.twitch",
+      "developerName" : "Hearsedev",
+      "subtitle" : "Theme-support, no ads and more!",
+      "versions" : [
+        {
+          "version" : "14.6.0",
+          "date" : "2023-03-30",
+          "localizedDescription" : "• Bug fixes, stability fixes, and app optimizations",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Twitch.v14.6.0.+.Toolbox.v2.4.2.ipa",
+          "size" : 66200000,
+          "minOSVersion" : "14.2"
+        }
+      ],
+      "version" : "14.6.0",
+      "versionDate" : "2023-03-30",
+      "versionDescription" : "• Bug fixes, stability fixes, and app optimizations",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Twitch.v14.6.0.+.Toolbox.v2.4.2.ipa",
+      "localizedDescription" : "The ultimate Twitch tweaked app with these great features: Theme support, Auto claim channel points, Adblock, and 3rd party emote support.",
+      "iconURL" : "https://img.ipa4fun.com/d7/24/dc/460177396-logo.jpg",
+      "tintColor" : "#6730af",
+      "size" : 66200000,
+      "minOSVersion" : "14.2",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-1.jpg",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-2.jpg",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-3.jpg",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-4.jpg",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-5.jpg",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-6.jpg"
+      ]
     }
   ],
   "news" : [
@@ -842,6 +875,16 @@
       "tintColor" : "#3c45ac",
       "imageURL" : "https://api.demarrez-votre-entreprise.com/wp-content/uploads/2021/09/discord-entreprise.jpg",
       "appID" : "com.hammerandchisel.discord",
+      "date" : "2023-03-30",
+      "notify" : true
+    },
+    {
+      "title" : "Twitch++ Added!",
+      "identifier" : "twitch-added",
+      "caption" : "Twitch w/Toolbox has been added to the source!",
+      "tintColor" : "#6730af",
+      "imageURL" : "https://blog.twitch.tv/assets/uploads/generic-email-header-1.jpg",
+      "appID" : "tv.twitch",
       "date" : "2023-03-30",
       "notify" : true
     }
