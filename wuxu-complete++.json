@@ -696,7 +696,7 @@
       "title" : "YouTube++ Updated! - Added OLED Mode!",
       "identifier" : "youtube-updated",
       "caption" : "YouTube has been updated to the latest version - added an OLED mode you can enable/.disable in uYou settings - click here for more info",
-      "tintColor" : "#af0303",
+      "tintColor" : "#030303",
       "imageURL" : "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/03/youtube-dark.png",
       "appID" : "com.google.ios.youtube",
       "date" : "2023-03-30",
