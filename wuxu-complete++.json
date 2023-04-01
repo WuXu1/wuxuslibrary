@@ -783,7 +783,7 @@
     {
       "title" : "YouTube++ Updated! - Fixed signing in!",
       "identifier" : "youtube-updated",
-      "caption" : "YouTube has been updated to the latest version - added an OLED mode you can enable/.disable in uYou settings - click here for more info",
+      "caption" : "YouTube has been updated to the latest version - fixed not being able to sign in to account - click here for more info",
       "tintColor" : "#af0303",
       "imageURL" : "https://i.imgur.com/tASQmLr.png",
       "appID" : "com.google.ios.youtube",
