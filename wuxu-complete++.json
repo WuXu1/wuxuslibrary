@@ -312,18 +312,10 @@
       "subtitle" : "All-In-One Tweak for YouTube.",
       "versions" : [
         {
-          "version" : "18.12.2",
-          "date" : "2023-03-30",
-          "localizedDescription" : "• YouTube updated to v18.12.1\n• Added option to enable OLED in uYou settings",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.12.2.+.uYou+.v2.3.1.+.OLED.ipa",
-          "size" : 97700000,
-          "minOSVersion" : "14.0"
-        },
-        {
           "version" : "18.08.1",
           "date" : "2023-03-29",
           "localizedDescription" : "• YouTube updated to v18.08.1\n• Now you can sign-in to YouTube like normal 🎉\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.12.2.+.uYou+.v2.3.1.+.OLED.ipa",
+          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
           "size" : 106000000,
           "minOSVersion" : "14.0"
         },
@@ -344,23 +336,21 @@
           "minOSVersion" : "14.0"
         }
       ],
-      "version" : "18.12.2",
-      "versionDate" : "2023-03-30",
-      "versionDescription" : "• YouTube updated to v18.12.1\n• Added option to enable OLED in uYou settings",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.12.2.+.uYou+.v2.3.1.+.OLED.ipa",
-      "localizedDescription" : "If you’re a YouTube app user then you’ll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.\n• OLED Friendly Mode",
+      "version" : "18.08.1",
+      "versionDate" : "2023-03-29",
+      "versionDescription" : "• YouTube updated to v18.08.1\n• Now you can sign-in to YouTube like normal 🎉\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
+      "localizedDescription" : "If you’re a YouTube app user then you’ll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.jpg",
       "tintColor" : "#af0303",
-      "size" : 97700000,
+      "size" : 106000000,
       "minOSVersion" : "14.0",
       "screenshotURLs" : [
-        "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-1.jpg",
-        "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-2.jpg",
-        "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-3.jpg",
-        "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-4.jpg",
-        "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-5.jpg",
-        "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-6.jpg",
-        "https://img.ipa4fun.com/65/82/9f/544007664-screenshot-7.jpg"
+        "https://i.imgur.com/7DZKFEN.png",
+        "https://imgur.com/bHIb9NA.png",
+        "https://imgur.com/pXi0tbi.png",
+        "https://imgur.com/YzI5ZB9.png",
+        "https://imgur.com/nn8L7rr.png"
       ]
     },
     {
@@ -791,13 +781,13 @@
       "notify" : true
     },
     {
-      "title" : "YouTube++ Updated! - Added OLED Mode!",
+      "title" : "YouTube++ Updated! - Fixed signing in!",
       "identifier" : "youtube-updated",
       "caption" : "YouTube has been updated to the latest version - added an OLED mode you can enable/.disable in uYou settings - click here for more info",
-      "tintColor" : "#030303",
-      "imageURL" : "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/03/youtube-dark.png",
+      "tintColor" : "#af0303",
+      "imageURL" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F157921%2Fyoutube-square&psig=AOvVaw1_95-7G4q3NPGB8A4Dut-I&ust=1680431181443000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDg5468iP4CFQAAAAAdAAAAABBJ",
       "appID" : "com.google.ios.youtube",
-      "date" : "2023-03-30",
+      "date" : "2023-03-29",
       "notify" : true
     },
     {
