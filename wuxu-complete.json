@@ -136,34 +136,6 @@
       ]
     },
     {
-      "name" : "WDBRemoveThreeAppLimit",
-      "bundleIdentifier" : "com.worthdoingbadly.WDBRemoveThreeAppLimit",
-      "developerName" : "Zhuowei",
-      "subtitle" : "Removes three app limit from AltStore!",
-      "versions" : [
-        {
-          "version" : "1.0",
-          "date" : "2023-02-16",
-          "localizedDescription" : "• Updated WDBRemoveThreeAppLimit to v1.0",
-          "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/WDBRemoveThreeAppLimit.v1.0.Tweak.ipa",
-          "size" : 88800,
-          "maxOSVersion" : "16.1.2"
-        }
-      ],
-      "version" : "1.0",
-      "versionDate" : "2023-02-16",
-      "versionDescription" : "• Updated WDBRemoveThreeAppLimit to v1.0",
-      "downloadURL" : "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/WDBRemoveThreeAppLimit.v1.0.Tweak.ipa",
-      "localizedDescription" : "An app that removes the three app limit for free provisioning. Hit \"Go\" just before installing apps. Should work on iOS 16.1.2 and below / iOS 15.7.1 and below.\n\nThis is very limited:\n\n• Apps still expire after a week\n• They still do not get arbitrary entitlements\n• They still must be signed. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
-      "iconURL" : "https://static.appdb.to/images/cydia-1900001094-icon-1675647886.png",
-      "tintColor" : "#404040",
-      "size" : 88800,
-      "maxOSVersion_0" : "16.1.2",
-      "screenshotURLs" : [
-        "https://tools4hack.santalab.me/media/uploads/2023/02/release-wdbremovethreeapplimit-for-macdirtycow-remove-1appleid-3apps-limit-sideload-install-6-709x1536.jpg"
-      ]
-    },
-    {
       "name" : "Cowabunga",
       "bundleIdentifier" : "com.leemin.DockHider",
       "developerName" : "Leminlimez",
