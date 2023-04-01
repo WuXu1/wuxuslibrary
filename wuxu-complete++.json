@@ -733,11 +733,20 @@
   "news" : [
     {
       "title" : "Welcome to WuXu's Library++!",
-      "identifier" : "welcome-message",
-      "caption" : "Welcome to WuXu's Library++. Contains tweaked apps, free streaming, cracked apps, and more. Updated Daily. Click to join Discord.",
-      "tintColor" : "#7809a4",
-      "url" : "https://discord.gg/nKXsSdbEDc",
+      "identifier" : "welcome-message-plus",
+      "caption" : "Welcome to WuXu's Library++! This source contains all of your favourite tweaked apps, free streaming, cracked/paid apps, and more! Updated Daily ;)",
+      "tintColor" : "#fe0002",
       "date" : "2023-02-08",
+      "notify" : true
+    },
+    {
+      "title" : "Join the Discord!",
+      "identifier" : "discord-info-plus",
+      "caption" : "Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!",
+      "tintColor" : "#5865f2",
+      "imageURL" : "https://imgur.com/A4d8bGv.png",
+      "url" : "https://discord.com/invite/nKXsSdbEDc",
+      "date" : "2023-03-31",
       "notify" : true
     },
     {
