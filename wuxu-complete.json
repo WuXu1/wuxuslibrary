@@ -186,19 +186,19 @@
     {
       "title" : "Welcome to WuXu's Library!",
       "identifier" : "welcome-message",
-      "caption" : "Welcome to WuXu's Library. Contains all of your favorite emulators, games, jailbreaks, utilities, and more. Updated Daily.",
-      "tintColor" : "#7809a4",
+      "caption" : "Welcome to WuXu's Library! This source contains all of your favourite emulators, games, jailbreaks, utilities, and more Updated Daily ;)",
+      "tintColor" : "#fe0002",
       "date" : "2023-02-08",
       "notify" : true
     },
     {
       "title" : "Join the Discord!",
       "identifier" : "discord-info",
-      "caption" : "Click on this post to join the server. A place where you can make requests, get support or give feedback.",
+      "caption" : "Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!",
       "tintColor" : "#5865f2",
       "imageURL" : "https://imgur.com/A4d8bGv.png",
-      "url" : "https://discord.gg/ncC2N3tvu2",
-      "date" : "2023-02-12",
+      "url" : "https://discord.com/invite/nKXsSdbEDc",
+      "date" : "2023-03-20",
       "notify" : true
     },
     {
